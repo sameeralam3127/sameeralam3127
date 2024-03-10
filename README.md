@@ -2,18 +2,13 @@
 
 I'm a software developer passionate about creating innovative solutions and exploring new technologies.
 
-🌱 Currently, I'm learning [insert what you're currently learning or interested in here].
+🌱 Currently, I'm learning ReactJS and DevOps 
 
 🚀 Some of my recent projects:
-- [Project 1](link-to-project-1): Brief description
+- [Exam Portal](https://github.com/sameer358/Online-Exam-portal): Online Exam Portal is a comprehensive web application that provides both students and administrators with a platform for managing exams, courses, questions, and results.
 
 📫 You can reach me via:
-- [LinkedIn](link-to-linkedin)
-- [Twitter](link-to-twitter)
+- [LinkedIn](https://www.linkedin.com/in/sameer-alam-9a0162111/)
 
-⚡ Fun fact: [Insert a fun fact about yourself here]
-
-<!--
-Optional: Add GitHub stats or a GitHub activity graph using tools like GitHub Readme Stats: https://github.com/anuraghazra/github-readme-stats
--->
-
+## GitHub Stats
+![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sameer358&show_icons=true&theme=radical)
