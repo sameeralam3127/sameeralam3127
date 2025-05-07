@@ -13,6 +13,9 @@ I'm a **software developer** passionate about creating innovative solutions and 
 - Server configurations, troubleshooting, and vulnerability fixing with Nessus
 
 🚀 **Some of My Recent Projects**:
+
+- [**IP Pinger Tool - Advanced Network Monitoring**](https://github.com/sameeralam3127/IP_Management):  
+  *The IP Pinger Tool is a robust Python application designed for network administrators and IT professionals to efficiently monitor network devices. It provides parallel ping operations, hostname resolution, and comprehensive reporting capabilities.*
 - [**Exam Portal**](https://github.com/sameer358/Online-Exam-portal):  
   *An online platform for managing exams, courses, questions, and results for both students and administrators.*
 - [**LMS Project**](https://github.com/sameer358/lms-project):  
