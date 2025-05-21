@@ -30,8 +30,7 @@ Check out my blog for more insights and tutorials: [ComputeCentral](https://www.
 ## 📊 GitHub Stats:
 ![Sameer's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sameeralam3127&show_icons=true&theme=radical)
 
-## 🏆 GitHub Trophies:
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=sameeralam3127&theme=radical&column=3&margin-w=15&margin-h=15)
+
 
 
 
