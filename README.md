@@ -1,6 +1,6 @@
 # Hi there, I'm Sameer! 👋
 
-I'm a **software developer** passionate about creating innovative solutions and exploring new technologies.
+I'm a **DevOps Engineer** passionate about creating innovative solutions and exploring new technologies.
 
 🌱 **Currently Learning**:  
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge) ![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white&style=for-the-badge) ![ReactJS](https://img.shields.io/badge/-ReactJS-61DAFB?logo=react&logoColor=black&style=for-the-badge)  
