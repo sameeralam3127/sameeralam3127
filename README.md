@@ -64,7 +64,7 @@ I design **scalable, secure, and automated infrastructure solutions** while expl
 
 ---
 
-## 🌐 Connect with Me
+## Connect with Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sameer-alam-9a0162111/"><img src="https://img.shields.io/badge/-Sameer%20Alam-blue?logo=linkedin&logoColor=white&style=for-the-badge"/></a>
@@ -74,16 +74,13 @@ I design **scalable, secure, and automated infrastructure solutions** while expl
 
 ---
 
-## 📊 GitHub Metrics
+## GitHub Metrics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sameeralam3127&show_icons=true&hide_border=true&theme=radical" height="165"/> 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sameeralam3127&layout=compact&hide_border=true&theme=radical" height="165"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sameeralam3127&theme=radical&hide_border=true" alt="GitHub Streak Stats"/>
-</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sameeralam3127&style=flat-square&color=blue" alt="Profile Views"/>
