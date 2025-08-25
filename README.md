@@ -2,32 +2,32 @@
 
 I'm a **DevOps Engineer** passionate about creating innovative solutions and exploring new technologies.
 
-🌱 **Currently Learning**:  
+ **Currently Learning**:  
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge) ![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white&style=for-the-badge) ![ReactJS](https://img.shields.io/badge/-ReactJS-61DAFB?logo=react&logoColor=black&style=for-the-badge)  
 **DevOps Tools**: ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge) ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white&style=for-the-badge)  
 **Linux & Scripting**: ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge) ![Shell Scripting](https://img.shields.io/badge/-Shell%20Scripts-4EAA25?logo=gnu-bash&logoColor=white&style=for-the-badge)
 
-💻 **Expert in**:  
+ **Expert in**:  
 - Linux System Administration  
 - Shell Scripting for automation and system management  
 - Server configurations, troubleshooting, and vulnerability fixing with Nessus
 
-🚀 **Some of My Recent Projects**:
+ **Some of My Recent Projects**:
 
 - [**IP Pinger Tool - Advanced Network Monitoring**](https://github.com/sameeralam3127/IP_Management):  
   *The IP Pinger Tool is a robust Python application designed for network administrators and IT professionals to efficiently monitor network devices. It provides parallel ping operations, hostname resolution, and comprehensive reporting capabilities.*
-- [**Exam Portal**](https://github.com/sameer358/Online-Exam-portal):  
+- [**Secure Exam Portal**](https://github.com/sameeralam3127/SecureExamPortal):  
   *An online platform for managing exams, courses, questions, and results for both students and administrators.*
-- [**LMS Project**](https://github.com/sameer358/lms-project):  
+- [**LMS Project**](https://github.com/sameeralam3127/FastAPI_Project):  
   *A Learning Management System developed with Django, offering course, student, and instructor management.*
 
 📝 **Blogs**:  
 Check out my blog for more insights and tutorials: [ComputeCentral](https://www.computecentral.in/)
 
-📫 **Let's Connect**:  
+ **Let's Connect**:  
 - [![LinkedIn](https://img.shields.io/badge/-Sameer%20Alam-blue?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/sameer-alam-9a0162111/)  
 
-## 📊 GitHub Stats:
+##  GitHub Stats:
 ![Sameer's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sameeralam3127&show_icons=true&theme=radical)
 
 
