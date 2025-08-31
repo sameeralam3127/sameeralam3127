@@ -55,7 +55,7 @@ I design **scalable, secure, and automated infrastructure solutions** while expl
 
 ---
 
-## ✍️ Blogs & Insights
+## Blogs & Insights
 
 📌 Sharing DevOps tutorials & cloud insights at:
 
