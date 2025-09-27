@@ -50,8 +50,7 @@ I design **scalable, secure, and automated infrastructure solutions** while expl
 🔹 [**Secure Exam Portal**](https://github.com/sameeralam3127/SecureExamPortal)
 *A platform with course, question, and result management for both students & admins.*
 
-🔹 [**FastAPI Web App**](https://github.com/sameeralam3127/FastAPI_Project)
-*FastAPI example project with Swagger integration.*
+
 
 ---
 
