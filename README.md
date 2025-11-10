@@ -60,7 +60,7 @@ I design **scalable, secure, and automated infrastructure solutions** while expl
 
 | Project Name | Description | Repository | Live Demo |
 |---------------|--------------|-------------|-----------|
-| **IP Management System** | Network monitoring tool with real-time ping and hostname resolution | [Repo](https://github.com/sameeralam3127/IP_Management) | [Live Site](https://sameeralam3127.github.io/IP_Management/) |
+| **IP Management System** | Network monitoring tool with real-time ping and hostname resolution | [Repo](https://github.com/sameeralam3127/IP_Management) | [Live Site](https://pingmonitorapp.github.io/) |
 | **Next Platform Starter** | Next.js-based starter platform for rapid web app deployment | [Repo](https://github.com/sameeralam3127/next-platform-starter) | [Live Site](https://grand-rabanadas-535972.netlify.app/) |
 | **Monitoring Dashboard** | A monitoring solution for system and network analytics | [Repo](https://github.com/sameeralam3127/Monitoring) | [Live Site](https://sameeralam3127.github.io/Monitoring/) |
 | **Docs Portal (ComputeCentral)** | Documentation portal powered by Mintlify | [Repo](https://github.com/sameeralam3127/docs) | [Live Site](https://computecentral.mintlify.app/) |
