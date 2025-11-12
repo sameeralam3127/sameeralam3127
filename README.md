@@ -48,7 +48,7 @@ I design **scalable, secure, and automated infrastructure solutions** while expl
 
 🔹 [**IP Pinger Tool – Advanced Network Monitoring**](https://github.com/sameeralam3127/IP_Management)  
 *A Python tool for sysadmins offering parallel ping, hostname resolution & real-time reports.*  
-**Live Demo:** [https://sameeralam3127.github.io/IP_Management/](https://pingmonitorapp.github.io/)
+**Live Demo:** [https://pingmonitorapp.github.io/](https://pingmonitorapp.github.io/)
 
 🔹 [**Secure Exam Portal**](https://github.com/sameeralam3127/SecureExamPortal)  
 *A platform with course, question, and result management for both students & admins.*  
