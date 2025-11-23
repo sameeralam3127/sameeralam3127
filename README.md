@@ -63,9 +63,9 @@ I design **scalable, secure, and automated infrastructure solutions** while expl
 | **IP Management System** | Network monitoring tool with real-time ping and hostname resolution | [Repo](https://github.com/sameeralam3127/IP_Management) | [Live Site](https://pingmonitorapp.github.io/) |
 | **Next Platform Starter** | Next.js-based starter platform for rapid web app deployment | [Repo](https://github.com/sameeralam3127/next-platform-starter) | [Live Site](https://grand-rabanadas-535972.netlify.app/) |
 | **Monitoring Dashboard** | A monitoring solution for system and network analytics | [Repo](https://github.com/sameeralam3127/Monitoring) | [Live Site](https://sameeralam3127.github.io/Monitoring/) |
-| **Docs Portal (ComputeCentral)** | Documentation portal powered by Mintlify | [Repo](https://github.com/sameeralam3127/docs) | [Live Site](https://computecentral.mintlify.app/) |
+| **Docs Portal (ComputeCentral)Preivew** | Documentation portal powered by Mintlify | [Repo](https://github.com/sameeralam3127/docs) | [Live Site](https://computecentral.mintlify.app/) |
 | **Terraform Zero to Hero** | Hands-on Terraform labs for cloud infrastructure automation | [Repo](https://github.com/sameeralam3127/Terraform-Zero-Hero) | [Live Site](https://sameeralam3127.github.io/Terraform-Zero-Hero/) |
-| **DevOps Automation** | Collection of automation scripts for DevOps workflows | [Repo](https://github.com/sameeralam3127/Devops-automation) | [Live Site](https://sameeralam3127.github.io/Devops-automation/) |
+| **Docs Portal (ComputeCentral)** | Collection of automation scripts for DevOps workflows | [Repo](https://github.com/sameeralam3127/Devops-automation) | [Live Site](https://sameeralam3127.github.io/Devops-automation/) |
 | **Secure Exam Portal** | Web app for online examinations with admin/student dashboards | [Repo](https://github.com/sameeralam3127/SecureExamPortal) | [Live Site](https://sameeralam3127.pythonanywhere.com/) |
 | **Learn DS with Python** | Learning guide for data science and Python fundamentals | [Repo](https://github.com/sameeralam3127/learn-ds-with-python) | [Live Site](https://sameeralam3127.github.io/learn-ds-with-python/) |
 | **Chatbot App** | AI-powered chatbot built with Streamlit | [Repo](https://github.com/sameeralam3127/chatbot) | [Live Site](https://chatbot-emf8tv63sn2xhgblihgjeg.streamlit.app/) |
