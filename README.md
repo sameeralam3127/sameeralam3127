@@ -66,7 +66,6 @@ I design **scalable, secure, and automated infrastructure solutions** while expl
 | **Docs Portal (ComputeCentral)** | Documentation portal powered by Mintlify | [Repo](https://github.com/sameeralam3127/docs) | [Live Site](https://computecentral.mintlify.app/) |
 | **Terraform Zero to Hero** | Hands-on Terraform labs for cloud infrastructure automation | [Repo](https://github.com/sameeralam3127/Terraform-Zero-Hero) | [Live Site](https://sameeralam3127.github.io/Terraform-Zero-Hero/) |
 | **DevOps Automation** | Collection of automation scripts for DevOps workflows | [Repo](https://github.com/sameeralam3127/Devops-automation) | [Live Site](https://sameeralam3127.github.io/Devops-automation/) |
-| **Calculator GUI** | Python-based GUI calculator built with Tkinter | [Repo](https://github.com/sameeralam3127/calculator_gui) | [Live Site](https://sameeralam3127.github.io/calculator_gui/) |
 | **Secure Exam Portal** | Web app for online examinations with admin/student dashboards | [Repo](https://github.com/sameeralam3127/SecureExamPortal) | [Live Site](https://sameeralam3127.pythonanywhere.com/) |
 | **Learn DS with Python** | Learning guide for data science and Python fundamentals | [Repo](https://github.com/sameeralam3127/learn-ds-with-python) | [Live Site](https://sameeralam3127.github.io/learn-ds-with-python/) |
 | **Chatbot App** | AI-powered chatbot built with Streamlit | [Repo](https://github.com/sameeralam3127/chatbot) | [Live Site](https://chatbot-emf8tv63sn2xhgblihgjeg.streamlit.app/) |
@@ -77,7 +76,7 @@ I design **scalable, secure, and automated infrastructure solutions** while expl
 
 📌 Sharing DevOps tutorials & cloud insights at:  
 * [**ComputeCentral**](https://www.computecentral.in/)  
-* [**DevOps Automation Blog**](https://sameeralam3127.github.io/Devops-automation/)
+
 
 ---
 
