@@ -90,6 +90,9 @@ I design **scalable, secure, and automated infrastructure solutions** while expl
 
 ## GitHub Metrics
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sameeralam3127)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sameeralam3127&show_icons=true&include_all_commits=true&count_private=true&cache_seconds=1800)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sameeralam3127&layout=compact&langs_count=8&cache_seconds=1800)
+
 
 
 <p align="center">
