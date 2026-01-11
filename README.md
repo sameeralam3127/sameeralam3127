@@ -91,10 +91,9 @@ I design **scalable, secure, and automated infrastructure solutions** while expl
 ## GitHub Metrics
 
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sameeralam3127&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark&hide_border=true&cache_seconds=1800" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sameeralam3127&layout=compact&langs_count=8&theme=github_dark&hide_border=true&cache_seconds=1800" height="165"/>
-</p>
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=sameeralam3127&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=sameeralam3127&theme=radical)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=sameeralam3127&layout=compact&theme=radical)
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sameeralam3127&style=flat-square" referrerpolicy="no-referrer"/>
