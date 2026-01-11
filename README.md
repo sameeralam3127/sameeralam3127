@@ -89,6 +89,8 @@ I design **scalable, secure, and automated infrastructure solutions** while expl
 ---
 
 ## GitHub Metrics
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sameeralam3127)
+
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sameeralam3127&show_icons=true&hide_border=true&theme=radical" height="165"/> 
