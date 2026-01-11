@@ -89,22 +89,18 @@ I design **scalable, secure, and automated infrastructure solutions** while expl
 ---
 
 ## GitHub Metrics
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sameeralam3127)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sameeralam3127&show_icons=true&include_all_commits=true&count_private=true&cache_seconds=1800)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sameeralam3127&layout=compact&langs_count=8&cache_seconds=1800)
-
-
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sameeralam3127&show_icons=true&hide_border=true&theme=radical" height="165"/> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sameeralam3127&layout=compact&hide_border=true&theme=radical" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=sameeralam3127&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark&hide_border=true&cache_seconds=1800" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sameeralam3127&layout=compact&langs_count=8&theme=github_dark&hide_border=true&cache_seconds=1800" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sameeralam3127&style=flat-square&color=blue" alt="Profile Views"/>
-  <img src="https://img.shields.io/github/followers/sameeralam3127?label=Followers&style=flat-square&color=green"/>
-  <img src="https://img.shields.io/github/stars/sameeralam3127?label=Stars&style=flat-square&color=yellow"/>
+  <img src="https://komarev.com/ghpvc/?username=sameeralam3127&style=flat-square" referrerpolicy="no-referrer"/>
+  <img src="https://img.shields.io/github/followers/sameeralam3127?label=Followers&style=flat-square&cacheSeconds=3600"/>
+  <img src="https://img.shields.io/github/stars/sameeralam3127?label=Stars&style=flat-square&cacheSeconds=3600"/>
 </p>
+
 
 ---
 
