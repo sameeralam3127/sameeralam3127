@@ -100,4 +100,3 @@ I design **scalable, secure, and automated infrastructure solutions** while expl
 
 ---
 
- *Open to collaboration, knowledge-sharing, and tackling exciting DevOps challenges!*
