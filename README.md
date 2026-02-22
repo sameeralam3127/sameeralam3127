@@ -1,6 +1,6 @@
 # 👋 Hi, I'm **Sameer Alam**
 
-**DevOps Engineer | Cloud & Automation Enthusiast | Open Source Contributor**
+**DevOps Engineer | Cloud & Automation Enthusiast**
 
 I design **scalable, secure, and automated infrastructure solutions** while exploring cloud-native technologies and modern DevOps practices. Passionate about **automation, containerization, and efficient workflows**, I believe:
 
