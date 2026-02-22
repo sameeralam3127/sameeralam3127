@@ -8,14 +8,6 @@ I design **scalable, secure, and automated infrastructure solutions** while expl
 
 ---
 
-## What I’m Exploring
-
-* Building microservices with **Flask** & **FastAPI**
-* Learning **React** to complement backend expertise
-* Writing smarter automation with **Python**
-
----
-
 ## DevOps Toolkit
 
 <p align="center">
@@ -30,17 +22,6 @@ I design **scalable, secure, and automated infrastructure solutions** while expl
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" title="GitHub Actions"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="45" title="Terraform"/>
 </p>
-
----
-
-## Expertise
-
-* **Linux System Administration** – troubleshooting, performance tuning & hardening  
-* **Automation & Scripting** – Bash & Python workflows  
-* **Containers & Orchestration** – Docker & Kubernetes pipelines  
-* **CI/CD & Config Management** – Ansible, GitHub Actions, Jenkins  
-* **Cloud Services** – AWS (EC2, S3, IAM, etc.)  
-* **Security & Monitoring** – Vulnerability scanning & proactive monitoring  
 
 ---
 
