@@ -50,23 +50,6 @@ I design **scalable, secure, and automated infrastructure solutions** while expl
 
 ---
 
-##  Blogs & Insights
-
-📌 Sharing DevOps tutorials & cloud insights at:  
-* [**ComputeCentral**](https://www.computecentral.in/)  
-
-
----
-
-## Connect with Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/sameer-alam-9a0162111/"><img src="https://img.shields.io/badge/-Sameer%20Alam-blue?logo=linkedin&logoColor=white&style=for-the-badge"/></a>
-  <a href="mailto:sameeralam3127@gmail.com"><img src="https://img.shields.io/badge/-Email%20Me-critical?logo=gmail&logoColor=white&style=for-the-badge"/></a
-</p>
-
----
-
 ## GitHub Metrics
 
 <p align="center">
@@ -79,5 +62,5 @@ I design **scalable, secure, and automated infrastructure solutions** while expl
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=sameeralam3127&theme=dracula)
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=sameeralam3127&layout=compact&theme=dracula)
 
----
+
 
