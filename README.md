@@ -29,7 +29,7 @@ I design **scalable, secure, and automated infrastructure solutions** while expl
 
 🔹 [**IPMG – Advanced Network Monitoring**](https://github.com/sameeralam3127/ipmg)  
 *A Python tool for sysadmins offering parallel ping, hostname resolution & real-time reports.*  
-**Live Demo:** [https://ipmgtool.github.io/](https://ipmgtool.github.io/)
+**Docs:** [https://ipmgtool.github.io/](https://ipmgtool.github.io/)
 
 🔹 [**Secure Exam Portal**](https://github.com/sameeralam3127/SecureExamPortal)  
 *A platform with course, question, and result management for both students & admins.*  
