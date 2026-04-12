@@ -1,0 +1,51 @@
+<svg width="1280" height="420" viewBox="0 0 1280 420" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="84" y1="42" x2="1200" y2="380" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0B132B"/>
+      <stop offset="0.5" stop-color="#123C69"/>
+      <stop offset="1" stop-color="#1B998B"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="234" y1="70" x2="940" y2="330" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#F4D35E"/>
+      <stop offset="1" stop-color="#EE6C4D"/>
+    </linearGradient>
+    <filter id="blur" x="0" y="0" width="1280" height="420" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+      <feGaussianBlur stdDeviation="40"/>
+    </filter>
+  </defs>
+
+  <rect width="1280" height="420" rx="28" fill="url(#bg)"/>
+
+  <g opacity="0.18" filter="url(#blur)">
+    <circle cx="1035" cy="105" r="120" fill="#F4D35E"/>
+    <circle cx="895" cy="286" r="120" fill="#4ECDC4"/>
+    <circle cx="247" cy="344" r="90" fill="#EE6C4D"/>
+  </g>
+
+  <path d="M0 318C176 262 288 267 456 303C659 347 823 359 1280 227V420H0V318Z" fill="white" fill-opacity="0.05"/>
+  <path d="M0 344C184 286 309 287 472 320C626 351 871 373 1280 273" stroke="white" stroke-opacity="0.16" stroke-width="2"/>
+
+  <rect x="72" y="60" width="184" height="34" rx="17" fill="white" fill-opacity="0.12"/>
+  <text x="104" y="82" fill="white" font-family="Verdana, Geneva, sans-serif" font-size="15" letter-spacing="1.8">DEVOPS PORTFOLIO</text>
+
+  <text x="72" y="168" fill="white" font-family="Verdana, Geneva, sans-serif" font-size="54" font-weight="700">Sameer Alam</text>
+  <text x="72" y="212" fill="#D9F4F1" font-family="Verdana, Geneva, sans-serif" font-size="25">Cloud, Automation, Monitoring, and Infrastructure</text>
+
+  <text x="72" y="278" fill="white" fill-opacity="0.88" font-family="Verdana, Geneva, sans-serif" font-size="20">
+    Building reliable systems with practical DevOps thinking and automation-first workflows.
+  </text>
+
+  <g>
+    <rect x="72" y="316" width="194" height="44" rx="22" fill="url(#accent)"/>
+    <text x="106" y="344" fill="#0B132B" font-family="Verdana, Geneva, sans-serif" font-size="18" font-weight="700">Infrastructure + CI/CD</text>
+  </g>
+
+  <g opacity="0.95">
+    <rect x="837" y="83" width="335" height="214" rx="24" fill="white" fill-opacity="0.1" stroke="white" stroke-opacity="0.16"/>
+    <text x="870" y="132" fill="white" font-family="Verdana, Geneva, sans-serif" font-size="20" font-weight="700">Focus Areas</text>
+    <text x="870" y="175" fill="#D9F4F1" font-family="Verdana, Geneva, sans-serif" font-size="18">01  Containerized workflows</text>
+    <text x="870" y="208" fill="#D9F4F1" font-family="Verdana, Geneva, sans-serif" font-size="18">02  Monitoring and diagnostics</text>
+    <text x="870" y="241" fill="#D9F4F1" font-family="Verdana, Geneva, sans-serif" font-size="18">03  Scripting and automation</text>
+    <text x="870" y="274" fill="#D9F4F1" font-family="Verdana, Geneva, sans-serif" font-size="18">04  Scalable delivery systems</text>
+  </g>
+</svg>
