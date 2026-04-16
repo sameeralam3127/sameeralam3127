@@ -1,4 +1,4 @@
-# Sameer Alam
+
 
 <p align="center">
   <img src="./assets/hero.svg" alt="Sameer Alam portfolio banner" width="100%" />
