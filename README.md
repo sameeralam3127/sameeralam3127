@@ -110,6 +110,4 @@ A platform with course, question, and result management for both students and ad
 
 ---
 
-## Why This Profile
 
-This profile is a snapshot of my work in automation, infrastructure, monitoring, and practical problem-solving. If you are interested in DevOps, cloud engineering, or reliable system design, you will find projects here that reflect both experimentation and real implementation.
