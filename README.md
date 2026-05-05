@@ -1,5 +1,3 @@
-# Sameer Alam
-
 <p align="center">
   <img src="./assets/hero.svg" alt="Sameer Alam DevOps portfolio banner" width="100%" />
 </p>
@@ -94,14 +92,14 @@ currently_improving:
 
 ## Project Index
 
-| Project | What It Shows | Tech / Focus | Links |
-| --- | --- | --- | --- |
-| **IP Management System** | Network checks, hostname resolution, real-time reports | Python, automation, monitoring | [Repo](https://github.com/sameeralam3127/ipmg) · [Live](https://ipmgtool.github.io/) |
-| **Next Platform Starter** | Fast web app starter and deployment workflow | Next.js, frontend, Netlify | [Repo](https://github.com/sameeralam3127/next-platform-starter) · [Live](https://grand-rabanadas-535972.netlify.app/) |
-| **Monitoring Dashboard** | Operational analytics and status visualization | Monitoring, dashboard UI | [Repo](https://github.com/sameeralam3127/Monitoring) · [Live](https://sameeralam3127.github.io/Monitoring/) |
-| **DevOps Automation** | Practical automation scripts and docs | DevOps, scripting, docs | [Repo](https://github.com/sameeralam3127/Devops-automation) · [Live](https://computecentral.in/) |
-| **Secure Exam Portal** | Admin/student exam management workflows | Full-stack web app | [Repo](https://github.com/sameeralam3127/SecureExamPortal) · [Live](https://sameeralam3127.pythonanywhere.com/) |
-| **Chatbot App** | AI chatbot interface deployed with Streamlit | Python, Streamlit, AI | [Repo](https://github.com/sameeralam3127/chatbot) · [Live](https://chatbot-emf8tv63sn2xhgblihgjeg.streamlit.app/) |
+| Project                   | What It Shows                                          | Tech / Focus                   | Links                                                                                                                 |
+| ------------------------- | ------------------------------------------------------ | ------------------------------ | --------------------------------------------------------------------------------------------------------------------- |
+| **IP Management System**  | Network checks, hostname resolution, real-time reports | Python, automation, monitoring | [Repo](https://github.com/sameeralam3127/ipmg) · [Live](https://ipmgtool.github.io/)                                  |
+| **Next Platform Starter** | Fast web app starter and deployment workflow           | Next.js, frontend, Netlify     | [Repo](https://github.com/sameeralam3127/next-platform-starter) · [Live](https://grand-rabanadas-535972.netlify.app/) |
+| **Monitoring Dashboard**  | Operational analytics and status visualization         | Monitoring, dashboard UI       | [Repo](https://github.com/sameeralam3127/Monitoring) · [Live](https://sameeralam3127.github.io/Monitoring/)           |
+| **DevOps Automation**     | Practical automation scripts and docs                  | DevOps, scripting, docs        | [Repo](https://github.com/sameeralam3127/Devops-automation) · [Live](https://computecentral.in/)                      |
+| **Secure Exam Portal**    | Admin/student exam management workflows                | Full-stack web app             | [Repo](https://github.com/sameeralam3127/SecureExamPortal) · [Live](https://sameeralam3127.pythonanywhere.com/)       |
+| **Chatbot App**           | AI chatbot interface deployed with Streamlit           | Python, Streamlit, AI          | [Repo](https://github.com/sameeralam3127/chatbot) · [Live](https://chatbot-emf8tv63sn2xhgblihgjeg.streamlit.app/)     |
 
 ---
 
@@ -123,12 +121,12 @@ currently_improving:
 
 ## Operating Style
 
-| Strength | How I Apply It |
-| --- | --- |
+| Strength                      | How I Apply It                                                                |
+| ----------------------------- | ----------------------------------------------------------------------------- |
 | **Automation-first thinking** | Convert repeated manual tasks into scripts, pipelines, and reusable workflows |
-| **Reliability mindset** | Design for uptime, observability, rollback paths, and clear diagnostics |
-| **Documentation habit** | Turn setup steps and operational knowledge into usable docs and portals |
-| **Builder energy** | Ship practical tools, learn from usage, and improve the system iteratively |
+| **Reliability mindset**       | Design for uptime, observability, rollback paths, and clear diagnostics       |
+| **Documentation habit**       | Turn setup steps and operational knowledge into usable docs and portals       |
+| **Builder energy**            | Ship practical tools, learn from usage, and improve the system iteratively    |
 
 ---
 
@@ -151,18 +149,6 @@ currently_improving:
 
 ---
 
-## Connect
+## Why This Profile
 
-<p align="center">
-  <a href="https://github.com/sameeralam3127">GitHub</a>
-  ·
-  <a href="https://github.com/sameeralam3127?tab=repositories">Projects</a>
-  ·
-  <a href="https://computecentral.in/">ComputeCentral</a>
-  ·
-  <a href="https://ipmgtool.github.io/">IPMG Docs</a>
-</p>
-
-<p align="center">
-  <strong>Open to DevOps, cloud, automation, monitoring, and full-stack infrastructure projects.</strong>
-</p>
+This profile is a snapshot of my work in automation, infrastructure, monitoring, and practical problem-solving. If you are interested in DevOps, cloud engineering, or reliable system design, you will find projects here that reflect both experimentation and real implementation.
