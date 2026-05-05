@@ -36,56 +36,56 @@
     <circle cx="250" cy="382" r="124" fill="#F59E0B" fill-opacity="0.12"/>
   </g>
 
-  <g transform="translate(72 58)">
+  <g transform="translate(68 58)">
     <rect x="0" y="0" width="218" height="34" rx="17" fill="#FFFFFF" fill-opacity="0.1" stroke="#FFFFFF" stroke-opacity="0.16"/>
     <circle cx="24" cy="17" r="5" fill="#22C55E"/>
     <text x="42" y="22" fill="#E0F2FE" font-family="Verdana, Geneva, sans-serif" font-size="14" letter-spacing="1.4">DEVOPS PORTFOLIO</text>
 
-    <text x="0" y="110" fill="#FFFFFF" font-family="Verdana, Geneva, sans-serif" font-size="58" font-weight="700">Sameer Alam</text>
-    <text x="0" y="154" fill="#BAE6FD" font-family="Verdana, Geneva, sans-serif" font-size="25">Cloud, Automation, Monitoring, CI/CD</text>
+    <text x="0" y="108" fill="#FFFFFF" font-family="Verdana, Geneva, sans-serif" font-size="54" font-weight="700">Sameer Alam</text>
+    <text x="0" y="152" fill="#BAE6FD" font-family="Verdana, Geneva, sans-serif" font-size="24">Cloud, Automation, Monitoring, CI/CD</text>
     <text x="0" y="211" fill="#E5E7EB" font-family="Verdana, Geneva, sans-serif" font-size="20">
       Building reliable infrastructure and practical tools for repeatable operations.
     </text>
 
     <g transform="translate(0 258)">
-      <rect x="0" y="0" width="300" height="48" rx="24" fill="url(#accent)"/>
-      <text x="28" y="31" fill="#08111F" font-family="Verdana, Geneva, sans-serif" font-size="17" font-weight="700">Infrastructure + Automation</text>
-      <rect x="322" y="0" width="158" height="48" rx="24" fill="#0F172A" fill-opacity="0.72" stroke="#38BDF8" stroke-opacity="0.42"/>
-      <text x="351" y="31" fill="#E0F2FE" font-family="Verdana, Geneva, sans-serif" font-size="17" font-weight="700">Monitoring</text>
+      <rect x="0" y="0" width="286" height="48" rx="24" fill="url(#accent)"/>
+      <text x="25" y="31" fill="#08111F" font-family="Verdana, Geneva, sans-serif" font-size="16" font-weight="700">Infrastructure + Automation</text>
+      <rect x="306" y="0" width="146" height="48" rx="24" fill="#0F172A" fill-opacity="0.72" stroke="#38BDF8" stroke-opacity="0.42"/>
+      <text x="332" y="31" fill="#E0F2FE" font-family="Verdana, Geneva, sans-serif" font-size="16" font-weight="700">Monitoring</text>
     </g>
   </g>
 
   <g filter="url(#shadow)">
-    <rect x="758" y="64" width="430" height="286" rx="24" fill="url(#panel)" stroke="#FFFFFF" stroke-opacity="0.14"/>
-    <rect x="782" y="90" width="382" height="64" rx="14" fill="#020617" fill-opacity="0.68" stroke="#38BDF8" stroke-opacity="0.18"/>
-    <circle cx="806" cy="122" r="6" fill="#EF4444"/>
-    <circle cx="826" cy="122" r="6" fill="#F59E0B"/>
-    <circle cx="846" cy="122" r="6" fill="#22C55E"/>
-    <text x="876" y="128" fill="#BAE6FD" font-family="'Courier New', monospace" font-size="17">$ deploy --observe --scale</text>
+    <rect x="730" y="64" width="478" height="286" rx="24" fill="url(#panel)" stroke="#FFFFFF" stroke-opacity="0.14"/>
+    <rect x="758" y="90" width="422" height="64" rx="14" fill="#020617" fill-opacity="0.68" stroke="#38BDF8" stroke-opacity="0.18"/>
+    <circle cx="782" cy="122" r="6" fill="#EF4444"/>
+    <circle cx="802" cy="122" r="6" fill="#F59E0B"/>
+    <circle cx="822" cy="122" r="6" fill="#22C55E"/>
+    <text x="852" y="128" fill="#BAE6FD" font-family="'Courier New', monospace" font-size="17">$ deploy --observe --scale</text>
 
-    <g transform="translate(800 184)">
+    <g transform="translate(762 184)">
       <rect x="0" y="0" width="104" height="72" rx="14" fill="#FFFFFF" fill-opacity="0.09" stroke="#FFFFFF" stroke-opacity="0.12"/>
       <text x="27" y="30" fill="#38BDF8" font-family="Verdana, Geneva, sans-serif" font-size="15" font-weight="700">Build</text>
       <path d="M29 48H75" stroke="#22C55E" stroke-width="5" stroke-linecap="round"/>
 
-      <path d="M114 36H157" stroke="#94A3B8" stroke-width="2" stroke-dasharray="6 6"/>
-      <circle cx="160" cy="36" r="5" fill="#38BDF8"/>
+      <path d="M116 36H169" stroke="#94A3B8" stroke-width="2" stroke-dasharray="6 6"/>
+      <circle cx="172" cy="36" r="5" fill="#38BDF8"/>
 
-      <rect x="172" y="0" width="104" height="72" rx="14" fill="#FFFFFF" fill-opacity="0.09" stroke="#FFFFFF" stroke-opacity="0.12"/>
-      <text x="198" y="30" fill="#38BDF8" font-family="Verdana, Geneva, sans-serif" font-size="15" font-weight="700">Ship</text>
-      <path d="M201 48H247" stroke="#F59E0B" stroke-width="5" stroke-linecap="round"/>
+      <rect x="188" y="0" width="104" height="72" rx="14" fill="#FFFFFF" fill-opacity="0.09" stroke="#FFFFFF" stroke-opacity="0.12"/>
+      <text x="214" y="30" fill="#38BDF8" font-family="Verdana, Geneva, sans-serif" font-size="15" font-weight="700">Ship</text>
+      <path d="M217 48H263" stroke="#F59E0B" stroke-width="5" stroke-linecap="round"/>
 
-      <path d="M286 36H329" stroke="#94A3B8" stroke-width="2" stroke-dasharray="6 6"/>
-      <circle cx="332" cy="36" r="5" fill="#22C55E"/>
+      <path d="M304 36H357" stroke="#94A3B8" stroke-width="2" stroke-dasharray="6 6"/>
+      <circle cx="360" cy="36" r="5" fill="#22C55E"/>
 
-      <rect x="344" y="0" width="104" height="72" rx="14" fill="#FFFFFF" fill-opacity="0.09" stroke="#FFFFFF" stroke-opacity="0.12"/>
-      <text x="363" y="30" fill="#38BDF8" font-family="Verdana, Geneva, sans-serif" font-size="15" font-weight="700">Observe</text>
-      <path d="M373 48H419" stroke="#22C55E" stroke-width="5" stroke-linecap="round"/>
+      <rect x="376" y="0" width="104" height="72" rx="14" fill="#FFFFFF" fill-opacity="0.09" stroke="#FFFFFF" stroke-opacity="0.12"/>
+      <text x="395" y="30" fill="#38BDF8" font-family="Verdana, Geneva, sans-serif" font-size="15" font-weight="700">Observe</text>
+      <path d="M405 48H451" stroke="#22C55E" stroke-width="5" stroke-linecap="round"/>
     </g>
 
-    <g transform="translate(802 284)">
-      <path d="M0 31C30 5 55 46 82 22C111 -4 131 46 162 20C190 -4 214 41 242 18C269 -5 295 42 325 20C350 2 372 22 394 12" stroke="#38BDF8" stroke-width="4" stroke-linecap="round"/>
-      <path d="M0 48H394" stroke="#FFFFFF" stroke-opacity="0.12"/>
+    <g transform="translate(762 284)">
+      <path d="M0 31C32 5 59 46 88 22C119 -4 141 46 174 20C204 -4 230 41 260 18C289 -5 317 42 349 20C376 2 400 22 424 12" stroke="#38BDF8" stroke-width="4" stroke-linecap="round"/>
+      <path d="M0 48H424" stroke="#FFFFFF" stroke-opacity="0.12"/>
       <text x="0" y="75" fill="#CBD5E1" font-family="Verdana, Geneva, sans-serif" font-size="15">pipelines · uptime · diagnostics · docs</text>
     </g>
   </g>

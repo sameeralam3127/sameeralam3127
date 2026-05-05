@@ -1,3 +1,5 @@
+# Sameer Alam
+
 <p align="center">
   <img src="./assets/hero.svg" alt="Sameer Alam DevOps portfolio banner" width="100%" />
 </p>
@@ -20,22 +22,24 @@
 
 ---
 
-## What I Build
+## About Me
 
 I build practical DevOps and full-stack tools around automation, monitoring, documentation, and reliable delivery. My work focuses on systems that are easy to operate, easy to understand, and useful in real environments.
 
-```yaml
-role: DevOps Engineer
-focus:
-  - Cloud infrastructure and deployment workflows
-  - Monitoring, diagnostics, and network tooling
-  - CI/CD, containers, scripting, and automation
-  - Full-stack platforms with clear admin/user workflows
-currently_improving:
-  - Kubernetes and production observability
-  - Infrastructure as Code patterns
-  - Developer experience for repeatable operations
-```
+<table>
+  <tr>
+    <td><strong>Role</strong></td>
+    <td>DevOps Engineer focused on cloud, automation, monitoring, and infrastructure workflows.</td>
+  </tr>
+  <tr>
+    <td><strong>Core Work</strong></td>
+    <td>CI/CD pipelines, containerized delivery, network tooling, diagnostics, and full-stack admin/user platforms.</td>
+  </tr>
+  <tr>
+    <td><strong>Current Focus</strong></td>
+    <td>Kubernetes, observability, Infrastructure as Code, and better developer experience for repeatable operations.</td>
+  </tr>
+</table>
 
 ---
 
@@ -136,11 +140,6 @@ currently_improving:
   <img src="https://komarev.com/ghpvc/?username=sameeralam3127&style=for-the-badge&color=0ea5e9" alt="Profile views" />
   <img src="https://img.shields.io/github/followers/sameeralam3127?label=Followers&style=for-the-badge&color=111827" alt="GitHub followers" />
   <img src="https://img.shields.io/github/stars/sameeralam3127?label=Total%20Stars&style=for-the-badge&color=f59e0b" alt="GitHub stars" />
-</p>
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=sameeralam3127&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Sameer's GitHub stats" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com?user=sameeralam3127&theme=tokyonight&hide_border=true" alt="Sameer's GitHub streak" />
 </p>
 
 <p align="center">
