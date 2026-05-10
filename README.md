@@ -157,6 +157,3 @@ I build practical DevOps and full-stack tools for automation, monitoring, docume
 
 ---
 
-<p align="center">
-  <strong>Open to DevOps, cloud, automation, monitoring, and full-stack infrastructure tooling conversations.</strong>
-</p>
