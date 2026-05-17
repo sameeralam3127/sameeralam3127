@@ -146,10 +146,7 @@ I build practical DevOps and full-stack tools for automation, monitoring, docume
   <img src="https://img.shields.io/github/stars/sameeralam3127?label=Total%20Stars&style=for-the-badge&color=f59e0b" alt="GitHub stars" />
 </p>
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=sameeralam3127&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="Sameer Alam GitHub stats" />
-  <img height="165" src="https://streak-stats.demolab.com?user=sameeralam3127&theme=tokyonight&hide_border=true" alt="Sameer Alam GitHub streak" />
-</p>
+
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sameeralam3127&theme=tokyo-night&hide_border=true&area=true" alt="Contribution activity graph" />
