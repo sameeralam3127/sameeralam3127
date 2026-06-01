@@ -105,7 +105,7 @@ I build practical DevOps and full-stack tools for automation, monitoring, docume
 | **Monitoring Dashboard** | Operational analytics and status visualization | Monitoring, dashboard UI | [Repo](https://github.com/sameeralam3127/Monitoring) | [Live](https://sameeralam3127.github.io/Monitoring/) |
 | **Secure Exam Portal** | Admin/student exam management workflows | Full-stack web app | [Repo](https://github.com/sameeralam3127/SecureExamPortal) | [Live](https://sameeralam3127.pythonanywhere.com/) |
 | **Next Platform Starter** | Fast web app starter and deployment workflow | Next.js, frontend, Netlify | [Repo](https://github.com/sameeralam3127/next-platform-starter) | [Live](https://grand-rabanadas-535972.netlify.app/) |
-| **Chatbot App** | AI chatbot interface deployed with Streamlit | Python, Streamlit, AI | [Repo](https://github.com/sameeralam3127/chatbot) | [Live](https://chatbot-emf8tv63sn2xhgblihgjeg.streamlit.app/) |
+| **Streamlit Chatbot App** | AI chatbot interface deployed with Streamlit | Python, Streamlit, AI | [Repo](https://github.com/sameeralam3127/chatbot) | [Live](https://chatbot-emf8tv63sn2xhgblihgjeg.streamlit.app/) |
 
 ---
 
