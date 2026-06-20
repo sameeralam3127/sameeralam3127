@@ -134,7 +134,7 @@ I build practical DevOps and full-stack tools for automation, monitoring, docume
 | **Automation-first thinking** | Convert repeated manual tasks into scripts, pipelines, and reusable workflows |
 | **Reliability mindset** | Design for uptime, observability, rollback paths, and clear diagnostics |
 | **Documentation habit** | Turn setup steps and operational knowledge into usable docs and portals |
-| **Builder energy** | Ship practical tools, learn from usage, and improve systems iteratively |
+| **Builder energy** | Ship practical tools, learn from usage.
 
 ---
 
