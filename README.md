@@ -98,14 +98,14 @@ I build practical DevOps and full-stack tools for automation, monitoring, docume
 
 ## Project Snapshot
 
-| Project | What It Shows | Tech / Focus | Repository | Live |
-| --- | --- | --- | --- | --- |
-| **IP Management System** | Network checks, hostname resolution, real-time reports | Python, automation, monitoring | [Repo](https://github.com/sameeralam3127/ipmg) | [Live](https://ipmgtool.github.io/) |
-| **DevOps Automation** | Practical automation scripts and operational docs | DevOps, scripting, documentation | [Repo](https://github.com/sameeralam3127/Devops-automation) | [Live](https://computecentral.in/) |
-| **Monitoring Dashboard** | Operational analytics and status visualization | Monitoring, dashboard UI | [Repo](https://github.com/sameeralam3127/Monitoring) | [Live](https://sameeralam3127.github.io/Monitoring/) |
-| **Secure Exam Portal** | Admin/student exam management workflows | Full-stack web app | [Repo](https://github.com/sameeralam3127/SecureExamPortal) | [Live](https://sameeralam3127.pythonanywhere.com/) |
-| **Next Platform Starter** | Fast web app starter and deployment workflow | Next.js, frontend, Netlify | [Repo](https://github.com/sameeralam3127/next-platform-starter) | [Live](https://grand-rabanadas-535972.netlify.app/) |
-| **Chatbot App** | AI chatbot interface deployed with Streamlit | Python, Streamlit, AI | [Repo](https://github.com/sameeralam3127/chatbot) | [Live](https://chatbot-emf8tv63sn2xhgblihgjeg.streamlit.app/) |
+| Project                   | What It Shows                                          | Tech / Focus                     | Repository                                                      | Live                                                          |
+| ------------------------- | ------------------------------------------------------ | -------------------------------- | --------------------------------------------------------------- | ------------------------------------------------------------- |
+| **IP Management System**  | Network checks, hostname resolution, real-time reports | Python, automation, monitoring   | [Repo](https://github.com/sameeralam3127/ipmg)                  | [Live](https://ipmgtool.github.io/)                           |
+| **DevOps Automation**     | Practical automation scripts and operational docs      | DevOps, scripting, documentation | [Repo](https://github.com/sameeralam3127/Devops-automation)     | [Live](https://computecentral.in/)                            |
+| **Monitoring Dashboard**  | Operational analytics and status visualization         | Monitoring, dashboard UI         | [Repo](https://github.com/sameeralam3127/Monitoring)            | [Live](https://sameeralam3127.github.io/Monitoring/)          |
+| **Secure Exam Portal**    | Admin/student exam management workflows                | Full-stack web app               | [Repo](https://github.com/sameeralam3127/SecureExamPortal)      | [Live](https://sameeralam3127.pythonanywhere.com/)            |
+| **Next Platform Starter** | Fast web app starter and deployment workflow           | Next.js, frontend, Netlify       | [Repo](https://github.com/sameeralam3127/next-platform-starter) | [Live](https://grand-rabanadas-535972.netlify.app/)           |
+| **Streamlit Chatbot App** | AI chatbot interface deployed with Streamlit           | Python, Streamlit, AI            | [Repo](https://github.com/sameeralam3127/chatbot)               | [Live](https://chatbot-emf8tv63sn2xhgblihgjeg.streamlit.app/) |
 
 ---
 
@@ -129,12 +129,12 @@ I build practical DevOps and full-stack tools for automation, monitoring, docume
 
 ## How I Build
 
-| Strength | How I Apply It |
-| --- | --- |
+| Strength                      | How I Apply It                                                                 |
+| ----------------------------- | ------------------------------------------------------------------------------ |
 | **Automation-first thinking** | Convert repeated manual tasks into scripts, pipelines, and reusable workflows. |
-| **Reliability mindset** | Design for uptime, observability, rollback paths, and clear diagnostics |
-| **Documentation habit** | Turn setup steps and operational knowledge into usable docs and portals. |
-| **Builder energy** | Ship practical tools, learn from usage, and improve systems iteratively |
+| **Reliability mindset**       | Design for uptime, observability, rollback paths, and clear diagnostics        |
+| **Documentation habit**       | Turn setup steps and operational knowledge into usable docs and portals        |
+| **Builder energy**            | Ship practical tools, learn from usage, and improve systems iteratively        |
 
 ---
 
@@ -147,17 +147,11 @@ I build practical DevOps and full-stack tools for automation, monitoring, docume
 </p>
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=sameeralam3127&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="Sameer Alam GitHub stats" />
-  <img height="165" src="https://streak-stats.demolab.com?user=sameeralam3127&theme=tokyonight&hide_border=true" alt="Sameer Alam GitHub streak" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sameeralam3127&theme=tokyo-night&hide_border=true&area=true" alt="Contribution activity graph" />
 </p>
 
 ---
 
 <p align="center">
-  <strong>Open to DevOps, cloud, automation, monitoring, and full-stack infrastructure tooling conversations.</strong><br />
-  <sub>Useful systems. Clear docs. Repeatable operations.</sub>
+  <strong>Open to DevOps, cloud, automation, monitoring, and full-stack infrastructure tooling conversations.</strong>
 </p>
