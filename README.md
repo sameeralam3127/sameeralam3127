@@ -4,42 +4,42 @@
 
 <p align="center">
   <a href="https://github.com/sameeralam3127?tab=repositories">
-    <img src="https://img.shields.io/badge/Explore_Projects-0F172A?style=for-the-badge&logo=github&logoColor=white" alt="Explore projects" />
+    <img src="https://img.shields.io/badge/Explore_Projects-111827?style=for-the-badge&logo=github&logoColor=white" alt="Explore projects" />
   </a>
   <a href="https://computecentral.in/">
-    <img src="https://img.shields.io/badge/Docs_Portal-0EA5E9?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Docs portal" />
+    <img src="https://img.shields.io/badge/ComputeCentral-0F766E?style=for-the-badge&logo=readthedocs&logoColor=white" alt="ComputeCentral docs portal" />
   </a>
   <a href="https://ipmgtool.github.io/">
-    <img src="https://img.shields.io/badge/IPMG_Live-10B981?style=for-the-badge&logo=python&logoColor=white" alt="IPMG live" />
+    <img src="https://img.shields.io/badge/IPMG_Live-16A34A?style=for-the-badge&logo=python&logoColor=white" alt="IPMG live" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=800&color=38BDF8&center=true&vCenter=true&width=900&lines=DevOps+Engineer+%7C+Cloud+and+Automation;Building+monitoring%2C+CI%2FCD%2C+and+infrastructure+tools;Turning+manual+operations+into+repeatable+systems" alt="Typing intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=0F766E&center=true&vCenter=true&width=900&lines=DevOps+Engineer+%7C+Cloud+%7C+Automation;Monitoring%2C+CI%2FCD%2C+Linux%2C+and+Infrastructure+Tooling;Turning+manual+operations+into+repeatable+systems" alt="Typing intro" />
 </p>
 
 ---
 
 ## Hi, I'm Sameer Alam
 
-I build practical DevOps and full-stack tools for automation, monitoring, documentation, and reliable delivery. My focus is simple: turn manual operational work into repeatable systems that are easier to run, debug, and improve.
+I build practical DevOps and full-stack tools for automation, monitoring, documentation, and reliable delivery. My work focuses on making operational tasks easier to repeat, observe, debug, and improve.
 
 <table>
   <tr>
-    <td><strong>Role</strong></td>
-    <td>DevOps Engineer focused on cloud, automation, monitoring, and infrastructure workflows.</td>
+    <td width="25%"><strong>Role</strong></td>
+    <td>DevOps Engineer focused on cloud, automation, monitoring, and infrastructure workflows</td>
   </tr>
   <tr>
     <td><strong>Core Work</strong></td>
-    <td>CI/CD pipelines, Linux operations, containerized delivery, diagnostics, and admin/user platforms.</td>
+    <td>CI/CD pipelines, Linux operations, container delivery, diagnostics, and admin/user platforms</td>
   </tr>
   <tr>
     <td><strong>Current Focus</strong></td>
-    <td>Kubernetes, observability, Infrastructure as Code, deployment workflows, and developer experience.</td>
+    <td>Kubernetes, observability, Infrastructure as Code, deployment workflows, and developer experience</td>
   </tr>
   <tr>
     <td><strong>Portfolio Theme</strong></td>
-    <td>Useful tools, clear documentation, and systems that can be operated confidently.</td>
+    <td>Useful tools, clear documentation, and systems that can be operated with confidence</td>
   </tr>
 </table>
 
@@ -50,8 +50,8 @@ I build practical DevOps and full-stack tools for automation, monitoring, docume
 <table>
   <tr>
     <td width="50%">
-      <h3>IPMG - Advanced Network Monitoring</h3>
-      <p>Python utility for parallel ping checks, hostname resolution, live status visibility, and clean admin reporting.</p>
+      <h3>IPMG - Network Monitoring Toolkit</h3>
+      <p>Python utility for parallel ping checks, hostname resolution, live status visibility, and clean operational reporting.</p>
       <p>
         <a href="https://github.com/sameeralam3127/ipmg">Repository</a>
         ·
@@ -61,7 +61,7 @@ I build practical DevOps and full-stack tools for automation, monitoring, docume
     </td>
     <td width="50%">
       <h3>ComputeCentral Docs Portal</h3>
-      <p>DevOps documentation and automation resource hub for scripts, workflows, and reusable operational knowledge.</p>
+      <p>DevOps documentation and automation hub for scripts, workflows, and reusable operational knowledge.</p>
       <p>
         <a href="https://github.com/sameeralam3127/Devops-automation">Repository</a>
         ·
@@ -73,7 +73,7 @@ I build practical DevOps and full-stack tools for automation, monitoring, docume
   <tr>
     <td width="50%">
       <h3>Monitoring Dashboard</h3>
-      <p>Dashboard project for visualizing system and network analytics with operational visibility and fast scanning in mind.</p>
+      <p>Dashboard project for visualizing system and network analytics with fast scanning and practical status visibility in mind.</p>
       <p>
         <a href="https://github.com/sameeralam3127/Monitoring">Repository</a>
         ·
@@ -83,7 +83,7 @@ I build practical DevOps and full-stack tools for automation, monitoring, docume
     </td>
     <td width="50%">
       <h3>Secure Exam Portal</h3>
-      <p>Online examination platform with admin and student workflows for courses, questions, results, and exam management.</p>
+      <p>Online examination platform with admin and student workflows for courses, questions, results, and exam operations.</p>
       <p>
         <a href="https://github.com/sameeralam3127/SecureExamPortal">Repository</a>
         ·
@@ -96,7 +96,7 @@ I build practical DevOps and full-stack tools for automation, monitoring, docume
 
 ---
 
-## Project Index
+## Project Snapshot
 
 | Project | What It Shows | Tech / Focus | Repository | Live |
 | --- | --- | --- | --- | --- |
@@ -109,7 +109,7 @@ I build practical DevOps and full-stack tools for automation, monitoring, docume
 
 ---
 
-## DevOps Toolkit
+## Toolkit
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=linux,bash,python,git,github,docker,kubernetes,terraform,ansible,jenkins,nginx,aws,nextjs" alt="DevOps and development toolkit" />
@@ -119,7 +119,7 @@ I build practical DevOps and full-stack tools for automation, monitoring, docume
   <img src="https://img.shields.io/badge/Linux-operations-111827?style=flat-square&logo=linux&logoColor=white" alt="Linux operations" />
   <img src="https://img.shields.io/badge/Bash-automation-4EAA25?style=flat-square&logo=gnubash&logoColor=white" alt="Bash automation" />
   <img src="https://img.shields.io/badge/Python-tooling-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python tooling" />
-  <img src="https://img.shields.io/badge/Docker-containers-2563EB?style=flat-square&logo=docker&logoColor=white" alt="Docker containers" />
+  <img src="https://img.shields.io/badge/Docker-containers-0EA5E9?style=flat-square&logo=docker&logoColor=white" alt="Docker containers" />
   <img src="https://img.shields.io/badge/Kubernetes-orchestration-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes orchestration" />
   <img src="https://img.shields.io/badge/Terraform-IaC-7C3AED?style=flat-square&logo=terraform&logoColor=white" alt="Terraform IaC" />
   <img src="https://img.shields.io/badge/GitHub_Actions-CI%2FCD-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions CI/CD" />
@@ -131,9 +131,9 @@ I build practical DevOps and full-stack tools for automation, monitoring, docume
 
 | Strength | How I Apply It |
 | --- | --- |
-| **Automation-first thinking** | Convert repeated manual tasks into scripts, pipelines, and reusable workflows |
+| **Automation-first thinking** | Convert repeated manual tasks into scripts, pipelines, and reusable workflows. |
 | **Reliability mindset** | Design for uptime, observability, rollback paths, and clear diagnostics |
-| **Documentation habit** | Turn setup steps and operational knowledge into usable docs and portals |
+| **Documentation habit** | Turn setup steps and operational knowledge into usable docs and portals. |
 | **Builder energy** | Ship practical tools, learn from usage, and improve systems iteratively |
 
 ---
@@ -158,5 +158,6 @@ I build practical DevOps and full-stack tools for automation, monitoring, docume
 ---
 
 <p align="center">
-  <strong>Open to DevOps, cloud, automation, monitoring, and full-stack infrastructure tooling conversations.</strong>
+  <strong>Open to DevOps, cloud, automation, monitoring, and full-stack infrastructure tooling conversations.</strong><br />
+  <sub>Useful systems. Clear docs. Repeatable operations.</sub>
 </p>

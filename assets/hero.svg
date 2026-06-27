@@ -1,92 +1,87 @@
 <svg width="1280" height="430" viewBox="0 0 1280 430" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
   <title id="title">Sameer Alam DevOps portfolio banner</title>
-  <desc id="desc">A polished DevOps profile banner with terminal, cloud, monitoring, and pipeline visuals.</desc>
+  <desc id="desc">A clean DevOps portfolio banner for Sameer Alam with cloud, automation, monitoring, and deployment visuals.</desc>
   <defs>
-    <linearGradient id="bg" x1="64" y1="30" x2="1180" y2="404" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#08111F"/>
-      <stop offset="0.44" stop-color="#102A43"/>
-      <stop offset="1" stop-color="#075985"/>
+    <linearGradient id="background" x1="50" y1="30" x2="1230" y2="420" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0B1020"/>
+      <stop offset="0.46" stop-color="#123047"/>
+      <stop offset="1" stop-color="#0F5132"/>
     </linearGradient>
-    <linearGradient id="panel" x1="780" y1="72" x2="1170" y2="360" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#0F172A" stop-opacity="0.94"/>
-      <stop offset="1" stop-color="#0B3A53" stop-opacity="0.88"/>
+    <linearGradient id="accent" x1="88" y1="326" x2="494" y2="326" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#67E8F9"/>
+      <stop offset="0.52" stop-color="#34D399"/>
+      <stop offset="1" stop-color="#FBBF24"/>
     </linearGradient>
-    <linearGradient id="accent" x1="74" y1="320" x2="372" y2="320" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#38BDF8"/>
-      <stop offset="0.55" stop-color="#22C55E"/>
-      <stop offset="1" stop-color="#F59E0B"/>
+    <linearGradient id="surface" x1="740" y1="72" x2="1156" y2="344" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0F172A" stop-opacity="0.98"/>
+      <stop offset="1" stop-color="#113B35" stop-opacity="0.94"/>
     </linearGradient>
-    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%" color-interpolation-filters="sRGB">
-      <feDropShadow dx="0" dy="18" stdDeviation="24" flood-color="#020617" flood-opacity="0.35"/>
-    </filter>
-    <pattern id="grid" width="44" height="44" patternUnits="userSpaceOnUse">
-      <path d="M44 0H0V44" stroke="#FFFFFF" stroke-opacity="0.055" stroke-width="1"/>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" stroke="#FFFFFF" stroke-opacity="0.045" stroke-width="1"/>
     </pattern>
   </defs>
 
-  <rect width="1280" height="430" rx="30" fill="url(#bg)"/>
-  <rect width="1280" height="430" rx="30" fill="url(#grid)"/>
+  <rect width="1280" height="430" rx="28" fill="url(#background)"/>
+  <rect width="1280" height="430" rx="28" fill="url(#grid)"/>
 
-  <path d="M0 330C176 282 290 292 455 323C658 361 834 372 1280 247V430H0V330Z" fill="#FFFFFF" fill-opacity="0.045"/>
-  <path d="M0 360C187 306 322 307 497 337C671 367 893 376 1280 286" stroke="#BAE6FD" stroke-opacity="0.18" stroke-width="2"/>
+  <path d="M0 315C150 279 294 277 468 309C656 344 834 362 1280 247V430H0V315Z" fill="#FFFFFF" fill-opacity="0.045"/>
+  <path d="M0 350C180 303 326 304 492 334C706 373 890 364 1280 281" stroke="#D1FAE5" stroke-opacity="0.2" stroke-width="2"/>
+  <path d="M74 85H610" stroke="#FFFFFF" stroke-opacity="0.16" stroke-width="1"/>
+  <path d="M74 347H548" stroke="#FFFFFF" stroke-opacity="0.12" stroke-width="1"/>
 
-  <g opacity="0.35">
-    <circle cx="1056" cy="94" r="116" fill="#38BDF8" fill-opacity="0.22"/>
-    <circle cx="1116" cy="314" r="92" fill="#22C55E" fill-opacity="0.16"/>
-    <circle cx="250" cy="382" r="124" fill="#F59E0B" fill-opacity="0.12"/>
-  </g>
+  <g transform="translate(82 62)">
+    <rect x="0" y="0" width="220" height="36" rx="18" fill="#FFFFFF" fill-opacity="0.1" stroke="#FFFFFF" stroke-opacity="0.18"/>
+    <circle cx="25" cy="18" r="6" fill="#34D399"/>
+    <text x="44" y="23" fill="#ECFEFF" font-family="Verdana, Geneva, sans-serif" font-size="14" letter-spacing="1">DEVOPS ENGINEER</text>
 
-  <g transform="translate(68 58)">
-    <rect x="0" y="0" width="218" height="34" rx="17" fill="#FFFFFF" fill-opacity="0.1" stroke="#FFFFFF" stroke-opacity="0.16"/>
-    <circle cx="24" cy="17" r="5" fill="#22C55E"/>
-    <text x="42" y="22" fill="#E0F2FE" font-family="Verdana, Geneva, sans-serif" font-size="14" letter-spacing="1.4">DEVOPS PORTFOLIO</text>
-
-    <text x="0" y="108" fill="#FFFFFF" font-family="Verdana, Geneva, sans-serif" font-size="54" font-weight="700">Sameer Alam</text>
-    <text x="0" y="152" fill="#BAE6FD" font-family="Verdana, Geneva, sans-serif" font-size="24">Cloud, Automation, Monitoring, CI/CD</text>
-    <text x="0" y="211" fill="#E5E7EB" font-family="Verdana, Geneva, sans-serif" font-size="20">
-      Building reliable infrastructure and practical tools for repeatable operations.
-    </text>
+    <text x="0" y="108" fill="#FFFFFF" font-family="Verdana, Geneva, sans-serif" font-size="58" font-weight="700">Sameer Alam</text>
+    <text x="0" y="154" fill="#A7F3D0" font-family="Verdana, Geneva, sans-serif" font-size="24">Cloud Automation | Monitoring | CI/CD</text>
+    <text x="0" y="208" fill="#E5E7EB" font-family="Verdana, Geneva, sans-serif" font-size="19">Reliable infrastructure, clear docs, repeatable operations.</text>
 
     <g transform="translate(0 258)">
-      <rect x="0" y="0" width="286" height="48" rx="24" fill="url(#accent)"/>
-      <text x="25" y="31" fill="#08111F" font-family="Verdana, Geneva, sans-serif" font-size="16" font-weight="700">Infrastructure + Automation</text>
-      <rect x="306" y="0" width="146" height="48" rx="24" fill="#0F172A" fill-opacity="0.72" stroke="#38BDF8" stroke-opacity="0.42"/>
-      <text x="332" y="31" fill="#E0F2FE" font-family="Verdana, Geneva, sans-serif" font-size="16" font-weight="700">Monitoring</text>
+      <rect x="0" y="0" width="250" height="48" rx="24" fill="url(#accent)"/>
+      <text x="25" y="31" fill="#07111F" font-family="Verdana, Geneva, sans-serif" font-size="16" font-weight="700">Automation First</text>
+      <rect x="268" y="0" width="154" height="48" rx="24" fill="#0B1220" fill-opacity="0.78" stroke="#67E8F9" stroke-opacity="0.42"/>
+      <text x="294" y="31" fill="#ECFEFF" font-family="Verdana, Geneva, sans-serif" font-size="16" font-weight="700">Observability</text>
     </g>
   </g>
 
-  <g filter="url(#shadow)">
-    <rect x="730" y="64" width="478" height="286" rx="24" fill="url(#panel)" stroke="#FFFFFF" stroke-opacity="0.14"/>
-    <rect x="758" y="90" width="422" height="64" rx="14" fill="#020617" fill-opacity="0.68" stroke="#38BDF8" stroke-opacity="0.18"/>
-    <circle cx="782" cy="122" r="6" fill="#EF4444"/>
-    <circle cx="802" cy="122" r="6" fill="#F59E0B"/>
-    <circle cx="822" cy="122" r="6" fill="#22C55E"/>
-    <text x="852" y="128" fill="#BAE6FD" font-family="'Courier New', monospace" font-size="17">$ deploy --observe --scale</text>
+  <g>
+    <rect x="724" y="80" width="478" height="284" rx="24" fill="#020617" fill-opacity="0.24"/>
+    <rect x="720" y="70" width="478" height="284" rx="24" fill="url(#surface)" stroke="#FFFFFF" stroke-opacity="0.16"/>
 
-    <g transform="translate(762 184)">
-      <rect x="0" y="0" width="104" height="72" rx="14" fill="#FFFFFF" fill-opacity="0.09" stroke="#FFFFFF" stroke-opacity="0.12"/>
-      <text x="27" y="30" fill="#38BDF8" font-family="Verdana, Geneva, sans-serif" font-size="15" font-weight="700">Build</text>
-      <path d="M29 48H75" stroke="#22C55E" stroke-width="5" stroke-linecap="round"/>
-
-      <path d="M116 36H169" stroke="#94A3B8" stroke-width="2" stroke-dasharray="6 6"/>
-      <circle cx="172" cy="36" r="5" fill="#38BDF8"/>
-
-      <rect x="188" y="0" width="104" height="72" rx="14" fill="#FFFFFF" fill-opacity="0.09" stroke="#FFFFFF" stroke-opacity="0.12"/>
-      <text x="214" y="30" fill="#38BDF8" font-family="Verdana, Geneva, sans-serif" font-size="15" font-weight="700">Ship</text>
-      <path d="M217 48H263" stroke="#F59E0B" stroke-width="5" stroke-linecap="round"/>
-
-      <path d="M304 36H357" stroke="#94A3B8" stroke-width="2" stroke-dasharray="6 6"/>
-      <circle cx="360" cy="36" r="5" fill="#22C55E"/>
-
-      <rect x="376" y="0" width="104" height="72" rx="14" fill="#FFFFFF" fill-opacity="0.09" stroke="#FFFFFF" stroke-opacity="0.12"/>
-      <text x="395" y="30" fill="#38BDF8" font-family="Verdana, Geneva, sans-serif" font-size="15" font-weight="700">Observe</text>
-      <path d="M405 48H451" stroke="#22C55E" stroke-width="5" stroke-linecap="round"/>
+    <g transform="translate(752 98)">
+      <rect x="0" y="0" width="414" height="58" rx="14" fill="#020617" fill-opacity="0.7" stroke="#67E8F9" stroke-opacity="0.2"/>
+      <circle cx="25" cy="29" r="6" fill="#EF4444"/>
+      <circle cx="45" cy="29" r="6" fill="#F59E0B"/>
+      <circle cx="65" cy="29" r="6" fill="#22C55E"/>
+      <text x="92" y="35" fill="#CCFBF1" font-family="'Courier New', monospace" font-size="16">$ ship --measure --improve</text>
     </g>
 
-    <g transform="translate(762 284)">
-      <path d="M0 31C32 5 59 46 88 22C119 -4 141 46 174 20C204 -4 230 41 260 18C289 -5 317 42 349 20C376 2 400 22 424 12" stroke="#38BDF8" stroke-width="4" stroke-linecap="round"/>
-      <path d="M0 48H424" stroke="#FFFFFF" stroke-opacity="0.12"/>
-      <text x="0" y="75" fill="#CBD5E1" font-family="Verdana, Geneva, sans-serif" font-size="15">pipelines · uptime · diagnostics · docs</text>
+    <g transform="translate(752 186)">
+      <rect x="0" y="0" width="112" height="74" rx="14" fill="#FFFFFF" fill-opacity="0.09" stroke="#FFFFFF" stroke-opacity="0.12"/>
+      <path d="M34 46H78" stroke="#34D399" stroke-width="5" stroke-linecap="round"/>
+      <text x="29" y="30" fill="#67E8F9" font-family="Verdana, Geneva, sans-serif" font-size="15" font-weight="700">Build</text>
+
+      <path d="M126 37H170" stroke="#94A3B8" stroke-width="2" stroke-dasharray="6 6"/>
+      <circle cx="174" cy="37" r="5" fill="#67E8F9"/>
+
+      <rect x="190" y="0" width="112" height="74" rx="14" fill="#FFFFFF" fill-opacity="0.09" stroke="#FFFFFF" stroke-opacity="0.12"/>
+      <path d="M224 46H268" stroke="#FBBF24" stroke-width="5" stroke-linecap="round"/>
+      <text x="220" y="30" fill="#67E8F9" font-family="Verdana, Geneva, sans-serif" font-size="15" font-weight="700">Deploy</text>
+
+      <path d="M316 37H360" stroke="#94A3B8" stroke-width="2" stroke-dasharray="6 6"/>
+      <circle cx="364" cy="37" r="5" fill="#34D399"/>
+
+      <rect x="380" y="0" width="66" height="74" rx="14" fill="#FFFFFF" fill-opacity="0.09" stroke="#FFFFFF" stroke-opacity="0.12"/>
+      <path d="M400 48C407 34 415 36 422 28C429 20 436 27 442 18" stroke="#34D399" stroke-width="4" stroke-linecap="round"/>
+      <text x="399" y="64" fill="#CBD5E1" font-family="Verdana, Geneva, sans-serif" font-size="12">SLO</text>
+    </g>
+
+    <g transform="translate(752 292)">
+      <path d="M0 28C31 5 56 44 86 21C116 -2 140 42 171 20C203 -3 226 41 258 19C287 0 316 36 346 18C370 4 392 19 414 10" stroke="#67E8F9" stroke-width="4" stroke-linecap="round"/>
+      <path d="M0 46H414" stroke="#FFFFFF" stroke-opacity="0.12"/>
+      <text x="0" y="75" fill="#CBD5E1" font-family="Verdana, Geneva, sans-serif" font-size="14">linux | docker | kubernetes | terraform | docs</text>
     </g>
   </g>
 </svg>
