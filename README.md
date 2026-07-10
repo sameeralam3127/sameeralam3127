@@ -150,12 +150,3 @@ I build practical DevOps and full-stack tools for automation, monitoring, docume
 <p align="center">
   <strong>Open to DevOps, cloud, automation, monitoring, and full-stack infrastructure tooling conversations.</strong>
 </p>
-
-<p align="center">
-  <a href="mailto:sameeralam3127@gmail.com">
-    <img src="https://img.shields.io/badge/Email-sameeralam3127%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://github.com/sameeralam3127">
-    <img src="https://img.shields.io/badge/GitHub-sameeralam3127-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" />
-  </a>
-</p>
