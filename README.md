@@ -96,16 +96,12 @@ I build practical DevOps and full-stack tools for automation, monitoring, docume
 
 ---
 
-## Project Snapshot
+## More Projects
 
-| Project                   | What It Shows                                          | Tech / Focus                     | Repository                                                      | Live                                                          |
-| ------------------------- | ------------------------------------------------------ | -------------------------------- | --------------------------------------------------------------- | ------------------------------------------------------------- |
-| **IP Management System**  | Network checks, hostname resolution, real-time reports | Python, automation, monitoring   | [Repo](https://github.com/sameeralam3127/ipmg)                  | [Live](https://ipmgtool.github.io/)                           |
-| **DevOps Automation**     | Practical automation scripts and operational docs      | DevOps, scripting, documentation | [Repo](https://github.com/sameeralam3127/Devops-automation)     | [Live](https://computecentral.in/)                            |
-| **Monitoring Dashboard**  | Operational analytics and status visualization         | Monitoring, dashboard UI         | [Repo](https://github.com/sameeralam3127/Monitoring)            | [Live](https://sameeralam3127.github.io/Monitoring/)          |
-| **Secure Exam Portal**    | Admin/student exam management workflows                | Full-stack web app               | [Repo](https://github.com/sameeralam3127/SecureExamPortal)      | [Live](https://sameeralam3127.pythonanywhere.com/)            |
-| **Next Platform Starter** | Fast web app starter and deployment workflow           | Next.js, frontend, Netlify       | [Repo](https://github.com/sameeralam3127/next-platform-starter) | [Live](https://grand-rabanadas-535972.netlify.app/)           |
-| **Streamlit Chatbot App** | AI chatbot interface deployed with Streamlit           | Python, Streamlit, AI            | [Repo](https://github.com/sameeralam3127/chatbot)               | [Live](https://chatbot-emf8tv63sn2xhgblihgjeg.streamlit.app/) |
+| Project                   | What It Shows                                | Tech / Focus               | Repository                                                      | Live                                                          |
+| ------------------------- | -------------------------------------------- | -------------------------- | --------------------------------------------------------------- | ------------------------------------------------------------- |
+| **Next Platform Starter** | Fast web app starter and deployment workflow | Next.js, frontend, Netlify | [Repo](https://github.com/sameeralam3127/next-platform-starter) | [Live](https://grand-rabanadas-535972.netlify.app/)           |
+| **Streamlit Chatbot App** | AI chatbot interface deployed with Streamlit | Python, Streamlit, AI      | [Repo](https://github.com/sameeralam3127/chatbot)               | [Live](https://chatbot-emf8tv63sn2xhgblihgjeg.streamlit.app/) |
 
 ---
 
@@ -113,16 +109,6 @@ I build practical DevOps and full-stack tools for automation, monitoring, docume
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=linux,bash,python,git,github,docker,kubernetes,terraform,ansible,jenkins,nginx,aws,nextjs" alt="DevOps and development toolkit" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Linux-operations-111827?style=flat-square&logo=linux&logoColor=white" alt="Linux operations" />
-  <img src="https://img.shields.io/badge/Bash-automation-4EAA25?style=flat-square&logo=gnubash&logoColor=white" alt="Bash automation" />
-  <img src="https://img.shields.io/badge/Python-tooling-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python tooling" />
-  <img src="https://img.shields.io/badge/Docker-containers-0EA5E9?style=flat-square&logo=docker&logoColor=white" alt="Docker containers" />
-  <img src="https://img.shields.io/badge/Kubernetes-orchestration-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes orchestration" />
-  <img src="https://img.shields.io/badge/Terraform-IaC-7C3AED?style=flat-square&logo=terraform&logoColor=white" alt="Terraform IaC" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-CI%2FCD-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions CI/CD" />
 </p>
 
 ---
@@ -147,6 +133,15 @@ I build practical DevOps and full-stack tools for automation, monitoring, docume
 </p>
 
 <p align="center">
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sameeralam3127&theme=tokyonight" alt="GitHub stats: stars, commits, PRs, issues, contributions" />
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sameeralam3127&theme=tokyonight" alt="Repositories per language" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=sameeralam3127&theme=tokyonight&hide_border=true" alt="Contribution streak" />
+</p>
+
+<p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sameeralam3127&theme=tokyo-night&hide_border=true&area=true" alt="Contribution activity graph" />
 </p>
 
@@ -154,4 +149,13 @@ I build practical DevOps and full-stack tools for automation, monitoring, docume
 
 <p align="center">
   <strong>Open to DevOps, cloud, automation, monitoring, and full-stack infrastructure tooling conversations.</strong>
+</p>
+
+<p align="center">
+  <a href="mailto:sameeralam3127@gmail.com">
+    <img src="https://img.shields.io/badge/Email-sameeralam3127%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://github.com/sameeralam3127">
+    <img src="https://img.shields.io/badge/GitHub-sameeralam3127-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" />
+  </a>
 </p>
