@@ -15,7 +15,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=0F766E&center=true&vCenter=true&width=900&lines=DevOps+Engineer+%7C+Cloud+%7C+Automation;Monitoring%2C+CI%2FCD%2C+Linux%2C+and+Infrastructure+Tooling;Turning+manual+operations+into+repeatable+systems" alt="Typing intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=0F766E&center=true&vCenter=true&width=900&lines=CI%2FCD+Pipelines+%7C+Kubernetes+%7C+Observability;Automation+scripts%2C+docs%2C+and+monitoring+tools;Scroll+down+for+featured+projects+and+live+demos" alt="Typing intro" />
 </p>
 
 ---
@@ -108,7 +108,7 @@ I build practical DevOps and full-stack tools for automation, monitoring, docume
 
 | Strength                      | How I Apply It                                                                 |
 | ----------------------------- | ------------------------------------------------------------------------------ |
-| **Automation-first thinking** | Convert repeated manual tasks into scripts, pipelines, and reusable workflows. |
+| **Automation-first thinking** | Convert repeated manual tasks into scripts, pipelines, and reusable workflows |
 | **Reliability mindset**       | Design for uptime, observability, rollback paths, and clear diagnostics        |
 | **Documentation habit**       | Turn setup steps and operational knowledge into usable docs and portals        |
 | **Builder energy**            | Ship practical tools, learn from usage, and improve systems iteratively        |
