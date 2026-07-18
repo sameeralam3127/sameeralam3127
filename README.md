@@ -96,15 +96,6 @@ I build practical DevOps and full-stack tools for automation, monitoring, docume
 
 ---
 
-## More Projects
-
-| Project                   | What It Shows                                | Tech / Focus               | Repository                                                      | Live                                                          |
-| ------------------------- | -------------------------------------------- | -------------------------- | --------------------------------------------------------------- | ------------------------------------------------------------- |
-| **Next Platform Starter** | Fast web app starter and deployment workflow | Next.js, frontend, Netlify | [Repo](https://github.com/sameeralam3127/next-platform-starter) | [Live](https://grand-rabanadas-535972.netlify.app/)           |
-| **Streamlit Chatbot App** | AI chatbot interface deployed with Streamlit | Python, Streamlit, AI      | [Repo](https://github.com/sameeralam3127/chatbot)               | [Live](https://chatbot-emf8tv63sn2xhgblihgjeg.streamlit.app/) |
-
----
-
 ## Toolkit
 
 <p align="center">
