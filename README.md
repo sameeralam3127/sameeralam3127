@@ -45,54 +45,14 @@ I build practical DevOps and full-stack tools for automation, monitoring, docume
 
 ---
 
-## Featured Work
+## Tool Web Portals
 
-<table>
-  <tr>
-    <td width="50%">
-      <h3>IPMG - Network Monitoring Toolkit</h3>
-      <p>Python utility for parallel ping checks, hostname resolution, live status visibility, and clean operational reporting.</p>
-      <p>
-        <a href="https://github.com/sameeralam3127/ipmg">Repository</a>
-        ·
-        <a href="https://ipmgtool.github.io/">Documentation</a>
-      </p>
-      <p><strong>Focus:</strong> network diagnostics, automation, parallel execution, reporting</p>
-    </td>
-    <td width="50%">
-      <h3>ComputeCentral Docs Portal</h3>
-      <p>DevOps documentation and automation hub for scripts, workflows, and reusable operational knowledge.</p>
-      <p>
-        <a href="https://github.com/sameeralam3127/Devops-automation">Repository</a>
-        ·
-        <a href="https://computecentral.in/">Live Site</a>
-      </p>
-      <p><strong>Focus:</strong> DevOps automation, docs, reusable scripts, knowledge base</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3>Monitoring Dashboard</h3>
-      <p>Dashboard project for visualizing system and network analytics with fast scanning and practical status visibility in mind.</p>
-      <p>
-        <a href="https://github.com/sameeralam3127/Monitoring">Repository</a>
-        ·
-        <a href="https://sameeralam3127.github.io/Monitoring/">Live Site</a>
-      </p>
-      <p><strong>Focus:</strong> observability, dashboards, metrics, UI reporting</p>
-    </td>
-    <td width="50%">
-      <h3>Secure Exam Portal</h3>
-      <p>Online examination platform with admin and student workflows for courses, questions, results, and exam operations.</p>
-      <p>
-        <a href="https://github.com/sameeralam3127/SecureExamPortal">Repository</a>
-        ·
-        <a href="https://sameeralam3127.pythonanywhere.com/">Live Demo</a>
-      </p>
-      <p><strong>Focus:</strong> full-stack app, role-based workflows, dashboards, education tech</p>
-    </td>
-  </tr>
-</table>
+| Tool             | What It Does                                                                                          | Portal                                                    | Repository                                                 |
+| ---------------- | ----------------------------------------------------------------------------------------------------- | --------------------------------------------------------- | ---------------------------------------------------------- |
+| **IPMG**         | Parallel ping checks, hostname resolution, and live network status reporting in Python                | [Live](https://ipmgtool.github.io/)                       | [Repo](https://github.com/sameeralam3127/ipmg)             |
+| **KubeRescue**   | Safety-first Kubernetes auto-remediation engine in Go — detects CrashLoopBackOff and takes safe, bounded actions | [Live](https://sameeralam3127.github.io/KubeRescue/)      | [Repo](https://github.com/sameeralam3127/KubeRescue)       |
+| **Ansari**       | Open-source, self-hosted AI support platform — embed a chat widget on any site with one script tag    | [Live](https://sameeralam3127.github.io/ansari/)          | [Repo](https://github.com/sameeralam3127/ansari)           |
+| **Linux Vitals** | Agentless Ansible collection that scans, heals, and reports on Linux fleets with an HTML dashboard    | [Live](https://sameeralam3127.github.io/linux-vitals/)    | [Repo](https://github.com/sameeralam3127/linux-vitals)     |
 
 ---
 
@@ -106,12 +66,12 @@ I build practical DevOps and full-stack tools for automation, monitoring, docume
 
 ## How I Build
 
-| Strength                      | How I Apply It                                                                 |
-| ----------------------------- | ------------------------------------------------------------------------------ |
+| Strength                      | How I Apply It                                                                |
+| ----------------------------- | ----------------------------------------------------------------------------- |
 | **Automation-first thinking** | Convert repeated manual tasks into scripts, pipelines, and reusable workflows |
-| **Reliability mindset**       | Design for uptime, observability, rollback paths, and clear diagnostics        |
-| **Documentation habit**       | Turn setup steps and operational knowledge into usable docs and portals        |
-| **Builder energy**            | Ship practical tools, learn from usage, and improve systems iteratively        |
+| **Reliability mindset**       | Design for uptime, observability, rollback paths, and clear diagnostics       |
+| **Documentation habit**       | Turn setup steps and operational knowledge into usable docs and portals       |
+| **Builder energy**            | Ship practical tools, learn from usage, and improve systems iteratively       |
 
 ---
 
