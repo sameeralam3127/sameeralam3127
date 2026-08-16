@@ -15,7 +15,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=0F766E&center=true&vCenter=true&width=900&lines=CI%2FCD+Pipelines+%7C+Kubernetes+%7C+Observability;Automation+scripts%2C+docs%2C+and+monitoring+tools;Scroll+down+for+featured+projects+and+live+demos" alt="Typing intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=0F766E&center=true&vCenter=true&width=900&lines=CI%2FCD+Pipelines+%7C+Kubernetes+%7C+Observability;Automation+scripts%2C+docs%2C+and+monitoring+tools;Scroll+down+for+tool+web+portals+and+live+demos" alt="Typing intro" />
 </p>
 
 ---
@@ -51,8 +51,9 @@ I build practical DevOps and full-stack tools for automation, monitoring, docume
 | ---------------- | ----------------------------------------------------------------------------------------------------- | --------------------------------------------------------- | ---------------------------------------------------------- |
 | **IPMG**         | Parallel ping checks, hostname resolution, and live network status reporting in Python                | [Live](https://ipmgtool.github.io/)                       | [Repo](https://github.com/sameeralam3127/ipmg)             |
 | **KubeRescue**   | Safety-first Kubernetes auto-remediation engine in Go — detects CrashLoopBackOff and takes safe, bounded actions | [Live](https://sameeralam3127.github.io/KubeRescue/)      | [Repo](https://github.com/sameeralam3127/KubeRescue)       |
-| **Ansari**       | Open-source, self-hosted AI support platform — embed a chat widget on any site with one script tag    | [Live](https://sameeralam3127.github.io/ansari/)          | [Repo](https://github.com/sameeralam3127/ansari)           |
+| **Kubernetes Platform** | Production-grade Kubernetes platform showcasing GitOps, IaC, CI/CD, observability, security, and autoscaling | [Live](https://sameeralam3127.github.io/kubernetes-platform/) | [Repo](https://github.com/sameeralam3127/kubernetes-platform) |
 | **Linux Vitals** | Agentless Ansible collection that scans, heals, and reports on Linux fleets with an HTML dashboard    | [Live](https://sameeralam3127.github.io/linux-vitals/)    | [Repo](https://github.com/sameeralam3127/linux-vitals)     |
+| **System Design 365** | Learning system design in the open — one case study at a time                                    | [Live](https://sameeralam3127.github.io/system-design-365/) | [Repo](https://github.com/sameeralam3127/system-design-365) |
 
 ---
 
@@ -84,8 +85,17 @@ I build practical DevOps and full-stack tools for automation, monitoring, docume
 </p>
 
 <p align="center">
+  <img width="800" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sameeralam3127&theme=tokyonight" alt="Profile details: contribution timeline, stars, commits, PRs, issues" />
+</p>
+
+<p align="center">
   <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sameeralam3127&theme=tokyonight" alt="GitHub stats: stars, commits, PRs, issues, contributions" />
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sameeralam3127&theme=tokyonight&utcOffset=5.5" alt="Commits by time of day" />
+</p>
+
+<p align="center">
   <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sameeralam3127&theme=tokyonight" alt="Repositories per language" />
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sameeralam3127&theme=tokyonight" alt="Commits per language" />
 </p>
 
 <p align="center">
