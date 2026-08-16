@@ -85,17 +85,17 @@ I build practical DevOps and full-stack tools for automation, monitoring, docume
 </p>
 
 <p align="center">
-  <img width="800" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sameeralam3127&theme=tokyonight" alt="Profile details: contribution timeline, stars, commits, PRs, issues" />
+  <img width="840" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sameeralam3127&theme=tokyonight" alt="Profile details: contribution timeline, stars, commits, PRs, issues" />
 </p>
 
 <p align="center">
-  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sameeralam3127&theme=tokyonight" alt="GitHub stats: stars, commits, PRs, issues, contributions" />
-  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sameeralam3127&theme=tokyonight&utcOffset=5.5" alt="Commits by time of day" />
+  <img width="412" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sameeralam3127&theme=tokyonight" alt="GitHub stats: stars, commits, PRs, issues, contributions" />
+  <img width="412" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sameeralam3127&utcOffset=5.5&theme=tokyonight" alt="Commits by time of day" />
 </p>
 
 <p align="center">
-  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sameeralam3127&theme=tokyonight" alt="Repositories per language" />
-  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sameeralam3127&theme=tokyonight" alt="Commits per language" />
+  <img width="412" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sameeralam3127&theme=tokyonight" alt="Repositories per language" />
+  <img width="412" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sameeralam3127&theme=tokyonight" alt="Commits per language" />
 </p>
 
 <p align="center">
