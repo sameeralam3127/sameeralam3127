@@ -9,7 +9,7 @@
   <a href="https://computecentral.in/">
     <img src="https://img.shields.io/badge/ComputeCentral-0F766E?style=for-the-badge&logo=readthedocs&logoColor=white" alt="ComputeCentral docs portal" />
   </a>
-  <a href="https://ipmgtool.github.io/">
+  <a href="https://github.com/sameeralam3127/ipmg/">
     <img src="https://img.shields.io/badge/IPMG_Live-16A34A?style=for-the-badge&logo=python&logoColor=white" alt="IPMG live" />
   </a>
 </p>
@@ -49,11 +49,10 @@ I build practical DevOps and full-stack tools for automation, monitoring, docume
 
 | Tool             | What It Does                                                                                          | Portal                                                    | Repository                                                 |
 | ---------------- | ----------------------------------------------------------------------------------------------------- | --------------------------------------------------------- | ---------------------------------------------------------- |
-| **IPMG**         | Parallel ping checks, hostname resolution, and live network status reporting in Python                | [Live](https://ipmgtool.github.io/)                       | [Repo](https://github.com/sameeralam3127/ipmg)             |
+| **IPMG**         | Parallel ping checks, hostname resolution, and live network status reporting in Python                | [Live](https://github.com/sameeralam3127/ipmg/)                       | [Repo](https://github.com/sameeralam3127/ipmg)             |
 | **KubeRescue**   | Safety-first Kubernetes auto-remediation engine in Go — detects CrashLoopBackOff and takes safe, bounded actions | [Live](https://sameeralam3127.github.io/KubeRescue/)      | [Repo](https://github.com/sameeralam3127/KubeRescue)       |
-| **Kubernetes Platform** | Production-grade Kubernetes platform showcasing GitOps, IaC, CI/CD, observability, security, and autoscaling | [Live](https://sameeralam3127.github.io/kubernetes-platform/) | [Repo](https://github.com/sameeralam3127/kubernetes-platform) |
 | **Linux Vitals** | Agentless Ansible collection that scans, heals, and reports on Linux fleets with an HTML dashboard    | [Live](https://sameeralam3127.github.io/linux-vitals/)    | [Repo](https://github.com/sameeralam3127/linux-vitals)     |
-| **System Design 365** | Learning system design in the open — one case study at a time                                    | [Live](https://sameeralam3127.github.io/system-design-365/) | [Repo](https://github.com/sameeralam3127/system-design-365) |
+
 
 ---
 
