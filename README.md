@@ -9,8 +9,8 @@
   <a href="https://computecentral.in/">
     <img src="https://img.shields.io/badge/ComputeCentral-0F766E?style=for-the-badge&logo=readthedocs&logoColor=white" alt="ComputeCentral docs portal" />
   </a>
-  <a href="https://github.com/sameeralam3127/ipmg/">
-    <img src="https://img.shields.io/badge/IPMG_Live-16A34A?style=for-the-badge&logo=python&logoColor=white" alt="IPMG live" />
+  <a href="https://sameeralam3127.github.io/devops-case-studies/">
+    <img src="https://img.shields.io/badge/Case_Studies-16A34A?style=for-the-badge&logo=readthedocs&logoColor=white" alt="DevOps case studies" />
   </a>
 </p>
 
@@ -45,21 +45,32 @@ I build practical DevOps and full-stack tools for automation, monitoring, docume
 
 ---
 
-## Tool Web Portals
+## Projects
 
-| Tool             | What It Does                                                                                          | Portal                                                    | Repository                                                 |
-| ---------------- | ----------------------------------------------------------------------------------------------------- | --------------------------------------------------------- | ---------------------------------------------------------- |
-| **IPMG**         | Parallel ping checks, hostname resolution, and live network status reporting in Python                | [Live](https://github.com/sameeralam3127/ipmg/)                       | [Repo](https://github.com/sameeralam3127/ipmg)             |
-| **KubeRescue**   | Safety-first Kubernetes auto-remediation engine in Go — detects CrashLoopBackOff and takes safe, bounded actions | [Live](https://sameeralam3127.github.io/KubeRescue/)      | [Repo](https://github.com/sameeralam3127/KubeRescue)       |
-| **Linux Vitals** | Agentless Ansible collection that scans, heals, and reports on Linux fleets with an HTML dashboard    | [Live](https://sameeralam3127.github.io/linux-vitals/)    | [Repo](https://github.com/sameeralam3127/linux-vitals)     |
+### Live Web Portals
 
+| Project                 | What It Does                                                                                                       | Live                                                           | Repository                                                        |
+| ------------------------ | ------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------- | -------------------------------------------------------------------- |
+| **KubeRescue**           | Safety-first Kubernetes auto-remediation engine in Go — detects CrashLoopBackOff and takes safe, bounded actions  | [Live](https://sameeralam3127.github.io/KubeRescue/)              | [Repo](https://github.com/sameeralam3127/KubeRescue)                 |
+| **Linux Vitals**         | Agentless Ansible collection that scans, heals, and reports on Linux fleets with an HTML dashboard                | [Live](https://sameeralam3127.github.io/linux-vitals/)            | [Repo](https://github.com/sameeralam3127/linux-vitals)               |
+| **Compute Central**      | Knowledge base for DevOps, cloud, Kubernetes, automation, monitoring, and AI engineering, built from real operational lessons | [Live](https://computecentral.in/)                                 | [Repo](https://github.com/sameeralam3127/compute-central-docs)       |
+| **DevOps Case Studies**  | Scenario-based DevOps/SRE case studies — production incidents worked end to end, from investigation to postmortem | [Live](https://sameeralam3127.github.io/devops-case-studies/)     | [Repo](https://github.com/sameeralam3127/devops-case-studies)        |
+
+### Other Projects
+
+| Project                | What It Does                                                                                                                                          | Repository                                                            |
+| ------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------- |
+| **IPMG**                | Enterprise-ready IP management and ping-monitoring CLI — parallel network scanning, subnet auto-discovery, hostname resolution, and XLSX/CSV/JSON reporting | [Repo](https://github.com/sameeralam3127/ipmg)                       |
+| **Secure Exam Portal**  | Production-ready online exam platform — FastAPI + PostgreSQL API, React frontend, background worker, and a hardened Nginx edge                       | [Repo](https://github.com/sameeralam3127/SecureExamPortal)           |
+| **LLM Dev Kit**         | Local-first microservices LLM workspace — a Next.js chat app with RAG over your own PDFs, offline via Ollama or routed to OpenAI/Gemini/Anthropic     | [Repo](https://github.com/sameeralam3127/llm-dev-kit)                |
+| **k8s-kubeadm-lab**     | Reproducible multi-node Kubernetes lab built with kubeadm — guided labs for RBAC, upgrades, and etcd disaster recovery                                | [Repo](https://github.com/sameeralam3127/k8s-kubeadm-lab)            |
 
 ---
 
 ## Toolkit
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,bash,python,git,github,docker,kubernetes,terraform,ansible,jenkins,nginx,aws,nextjs" alt="DevOps and development toolkit" />
+  <img src="https://skillicons.dev/icons?i=linux,bash,python,go,git,github,docker,kubernetes,terraform,ansible,jenkins,nginx,aws,nextjs,react,fastapi,postgres" alt="DevOps and development toolkit" />
 </p>
 
 ---
