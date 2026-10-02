@@ -1,6 +1,6 @@
 <svg width="1280" height="420" viewBox="0 0 1280 420" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
-  <title id="title">Sameer Alam — DevOps Engineer portfolio banner</title>
-  <desc id="desc">Animated DevOps banner for Sameer Alam showing a terminal, CI/CD pipeline stages, and a live metric line over a dark slate background.</desc>
+  <title id="title">Sameer Alam — Infrastructure Reliability &amp; Security Engineer</title>
+  <desc id="desc">Animated banner for Sameer Alam, Infrastructure Reliability and Security Engineer, showing a terminal, pipeline stages, and a live metric line over a dark slate background.</desc>
 
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1280" y2="420" gradientUnits="userSpaceOnUse">
@@ -62,24 +62,24 @@
   <!-- Left: identity -->
   <g transform="translate(84 66)">
     <g class="rise">
-      <rect width="226" height="36" rx="18" fill="#FFFFFF" fill-opacity="0.08" stroke="#5EEAD4" stroke-opacity="0.3"/>
+      <rect width="508" height="36" rx="18" fill="#FFFFFF" fill-opacity="0.08" stroke="#5EEAD4" stroke-opacity="0.3"/>
       <circle class="pulse" cx="24" cy="18" r="6" fill="#34D399"/>
-      <text x="44" y="23" class="sans" fill="#CCFBF1" font-size="14" letter-spacing="2.5">DEVOPS ENGINEER</text>
+      <text x="44" y="23" class="sans" fill="#CCFBF1" font-size="13" letter-spacing="1.6">INFRASTRUCTURE RELIABILITY &amp; SECURITY ENGINEER</text>
     </g>
 
     <text x="0" y="118" class="sans rise d1" fill="#F8FAFC" font-size="60" font-weight="700">Sameer Alam</text>
-    <text x="0" y="162" class="sans rise d2" fill="#5EEAD4" font-size="23">Cloud &#183; Automation &#183; Monitoring &#183; CI/CD</text>
-    <text x="0" y="204" class="sans rise d3" fill="#CBD5E1" font-size="18">Turning manual operations into repeatable, observable systems.</text>
+    <text x="0" y="162" class="sans rise d2" fill="#5EEAD4" font-size="23">Kubernetes &#183; Linux Fleets &#183; Reliability &#183; Security</text>
+    <text x="0" y="204" class="sans rise d3" fill="#CBD5E1" font-size="18">Detect, diagnose, and safely fix production failures.</text>
 
     <g transform="translate(0 244)" class="rise d4">
       <rect width="196" height="46" rx="23" fill="url(#chip)"/>
-      <text x="30" y="29" class="sans" fill="#052E2B" font-size="15" font-weight="700">Automation First</text>
+      <text x="30" y="29" class="sans" fill="#052E2B" font-size="15" font-weight="700">Safe Remediation</text>
 
       <rect x="212" y="0" width="158" height="46" rx="23" fill="#0B1220" fill-opacity="0.7" stroke="#5EEAD4" stroke-opacity="0.4"/>
       <text x="240" y="29" class="sans" fill="#CCFBF1" font-size="15" font-weight="600">Observability</text>
 
       <rect x="386" y="0" width="180" height="46" rx="23" fill="#0B1220" fill-opacity="0.7" stroke="#FBBF24" stroke-opacity="0.4"/>
-      <text x="414" y="29" class="sans" fill="#FEF3C7" font-size="15" font-weight="600">Infra as Code</text>
+      <text x="414" y="29" class="sans" fill="#FEF3C7" font-size="15" font-weight="600">Linux Hardening</text>
     </g>
   </g>
 

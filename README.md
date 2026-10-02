@@ -1,51 +1,63 @@
 <p align="center">
-  <img src="./assets/hero.svg" alt="Sameer Alam — DevOps Engineer" width="100%" />
+  <img src="./assets/hero.svg" alt="Sameer Alam — Infrastructure Reliability & Security Engineer" width="100%" />
 </p>
 
-<p align="center">
-  <a href="https://computecentral.in/"><img src="https://img.shields.io/badge/ComputeCentral-Docs-0F766E?style=for-the-badge&logo=readthedocs&logoColor=white" alt="ComputeCentral docs" /></a>
-  <a href="https://sameeralam3127.github.io/devops-case-studies/"><img src="https://img.shields.io/badge/DevOps_Case_Studies-Live-2563EB?style=for-the-badge&logo=githubpages&logoColor=white" alt="DevOps case studies" /></a>
-  <a href="https://github.com/sameeralam3127?tab=repositories"><img src="https://img.shields.io/badge/All_Repositories-111827?style=for-the-badge&logo=github&logoColor=white" alt="All repositories" /></a>
-</p>
+## Sameer Alam
 
-## About
+**Infrastructure Reliability & Security Engineer** · 8 years
 
-DevOps engineer building tools for Linux fleet operations, Kubernetes reliability, and network monitoring. I focus on automation that is safe to run, easy to observe, and documented well enough for others to operate.
+I build tools that detect, diagnose, and safely fix production failures across Kubernetes clusters and Linux fleets.
 
-- **Core areas:** CI/CD, Kubernetes, Ansible, Linux operations, observability, Infrastructure as Code
-- **Currently:** Kubernetes auto-remediation, agentless fleet health checks, and hands-on SRE case studies
+[Compute Central](https://computecentral.in/) · [KubeRescue](https://sameeralam3127.github.io/KubeRescue/) · [Linux Vitals](https://sameeralam3127.github.io/linux-vitals/) · [IPMG](https://sameeralam3127.github.io/ipmg/)
+<!-- TODO: LinkedIn URL — add " · [LinkedIn](https://www.linkedin.com/in/<handle>/)" to the line above -->
 
----
+## What I build
 
-## Featured Projects
-
-| Project | Description | Stack | Live |
-| --- | --- | --- | --- |
-| **[IPMG](https://github.com/sameeralam3127/ipmg)** | Network host discovery with parallel ping sweeps, reverse DNS, scan history and diffs, multi-format reports, and a local web UI. Installable via Homebrew. | Python | [Live Web](https://sameeralam3127.github.io/ipmg/) |
-| **[KubeRescue](https://github.com/sameeralam3127/KubeRescue)** | Kubernetes failure detection and policy-driven auto-remediation engine for SRE teams. | Go | [Live Web](https://sameeralam3127.github.io/KubeRescue/) |
-| **[Linux Vitals](https://github.com/sameeralam3127/linux-vitals)** | Agentless Ansible collection for Linux fleet health checks across RHEL, Fedora, Ubuntu, and SUSE, with baseline comparison, opt-in self-healing, and an HTML dashboard. | Ansible, Python | [Live Web](https://sameeralam3127.github.io/linux-vitals/) |
-| **[DevOps Case Studies](https://github.com/sameeralam3127/devops-case-studies)** | Scenario-based DevOps and SRE case studies: production incidents worked end to end, from investigation to postmortem. | JavaScript | [Live Web](https://sameeralam3127.github.io/devops-case-studies/) |
-| **[ComputeCentral Docs](https://github.com/sameeralam3127/compute-central-docs)** | Knowledge base for DevOps, cloud, Kubernetes, automation, monitoring, and AI engineering, built from real operational lessons. | HTML | [Live Web](https://computecentral.in/) |
-
-### More Projects
-
-| Project | Description | Stack |
+| Project | Problem it solves | Links |
 | --- | --- | --- |
-| **[SecureExamPortal](https://github.com/sameeralam3127/SecureExamPortal)** | Online exam platform with a FastAPI + PostgreSQL API, React/Vite frontend, background worker, and Nginx edge. Includes role-based dashboards, Google sign-in, and exam-integrity controls. | FastAPI, React, PostgreSQL, Docker |
-| **[k8s-kubeadm-lab](https://github.com/sameeralam3127/k8s-kubeadm-lab)** | Reproducible kubeadm lab for building a multi-node cluster across macOS and Windows, then practising rollouts, RBAC, etcd recovery, and upgrades. | Kubernetes, Bash, PowerShell |
-| **[llm-dev-kit](https://github.com/sameeralam3127/llm-dev-kit)** | Local-first LLM workspace: a Next.js chat app with RAG over your own PDFs, running offline via Ollama or routed to OpenAI, Gemini, or Anthropic. | Next.js, TypeScript, Docker |
-| **[homebrew-tap](https://github.com/sameeralam3127/homebrew-tap)** | Homebrew formulae for my CLI tools: `brew install sameeralam3127/tap/ipmg` | Ruby |
+| **KubeRescue** (Go) | Restarting crash-looping pods by hand hides the cause. KubeRescue records the evidence (exit code, restart count, owner) before acting, and every remediation is bounded and dry-run first. Pre-1.0. | [Live](https://sameeralam3127.github.io/KubeRescue/) · [Repo](https://github.com/sameeralam3127/KubeRescue) |
+| **Linux Vitals** (Ansible) | Health-checking a mixed RHEL, Ubuntu, and SUSE fleet without installing agents. Compares baseline to post-change state, writes one HTML report, and only fixes things when you opt in. | [Live](https://sameeralam3127.github.io/linux-vitals/) · [Repo](https://github.com/sameeralam3127/linux-vitals) · [Galaxy](https://galaxy.ansible.com/ui/repo/published/sameeralam3127/linux_vitals/) |
+| **IPMG** (Python) | Finding which hosts went down since the last scan. Parallel ping sweeps, reverse DNS, and scan-to-scan diffs. `brew install sameeralam3127/tap/ipmg` | [Live](https://sameeralam3127.github.io/ipmg/) · [Repo](https://github.com/sameeralam3127/ipmg) |
+| **k8s-kubeadm-lab** (Shell) | Practising etcd recovery, upgrades, and RBAC somewhere it's safe to break: a reproducible multi-node kubeadm cluster across macOS and Windows. | [Repo](https://github.com/sameeralam3127/k8s-kubeadm-lab) |
+| **llm-dev-kit** (TypeScript) | Chat and RAG over private PDFs without data leaving the machine: local-first on Ollama, with optional cloud model routing. | [Repo](https://github.com/sameeralam3127/llm-dev-kit) |
+
+## Live tool status
+
+Checked every 6 hours by a [GitHub Actions workflow](.github/workflows/status.yml).
+
+<!-- STATUS:START -->
+<!-- status-state: {"checked": "2026-10-02 18:28", "up": {"IPMG": true, "KubeRescue": true, "Linux Vitals": true}} -->
+| Tool | Status | Response ms | Last checked (UTC) |
+| --- | --- | --- | --- |
+| [IPMG](https://sameeralam3127.github.io/ipmg/) | 🟢 Up | 53 | 2026-10-02 18:28 |
+| [KubeRescue](https://sameeralam3127.github.io/KubeRescue/) | 🟢 Up | 56 | 2026-10-02 18:28 |
+| [Linux Vitals](https://sameeralam3127.github.io/linux-vitals/) | 🟢 Up | 76 | 2026-10-02 18:28 |
+<!-- STATUS:END -->
+
+## Upstream contributions
+
+- **IBM/docling-pipelines** — refactor(ollama): hoist repeated imports out of OllamaClient hot-path methods ([#133](https://github.com/IBM/docling-pipelines/pull/133))
+
+<!--
+## Demo
+
+TODO: record a KubeRescue demo and save it as assets/kuberescue-demo.gif, then uncomment this section.
+
+How to record (about 30-60 seconds, terminal ~100x30):
+  1. Start a throwaway cluster:      kind create cluster --name demo
+  2. Deploy a pod that crash-loops:  kubectl run crasher --image=busybox -- sh -c "exit 1"
+     (better: a Deployment, so KubeRescue has an owner to act on)
+  3. Record:                         asciinema rec demo.cast
+     - run KubeRescue with --dry-run and show the evidence it reports
+     - run it for real and show the bounded action and the pod recovering
+  4. Convert to GIF:                 agg demo.cast assets/kuberescue-demo.gif
+  Keep it under ~5 MB so the profile loads quickly.
+
+<p align="center">
+  <img src="./assets/kuberescue-demo.gif" alt="KubeRescue detecting a CrashLoopBackOff, reporting evidence, and remediating it" width="85%" />
+</p>
+-->
 
 ---
 
-## Toolkit
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,bash,python,go,git,github,githubactions,docker,kubernetes,terraform,ansible,jenkins,nginx,aws,nextjs,react,fastapi,postgres" alt="Linux, Bash, Python, Go, Git, GitHub, GitHub Actions, Docker, Kubernetes, Terraform, Ansible, Jenkins, Nginx, AWS, Next.js, React, FastAPI, PostgreSQL" />
-</p>
-
----
-
-<p align="center">
-  Open to conversations about DevOps, SRE, platform engineering, and infrastructure automation.
-</p>
+Happy to talk about reliability, Kubernetes, Linux automation, and infrastructure security.
