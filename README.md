@@ -36,7 +36,10 @@ Checked every 6 hours by a [GitHub Actions workflow](.github/workflows/status.ym
 
 ## Upstream contributions
 
-- **IBM/docling-pipelines** — refactor(ollama): hoist repeated imports out of OllamaClient hot-path methods ([#133](https://github.com/IBM/docling-pipelines/pull/133))
+- **docling-project/docling-pipelines** — refactor(ollama): hoist repeated imports out of OllamaClient hot-path methods ([#133](https://github.com/docling-project/docling-pipelines/pull/133))
+- **mloda-ai/mloda** — docs: note that new doc py fences may need an allowlist bump ([#1443](https://github.com/mloda-ai/mloda/pull/1443))
+- **ansible/ansible-lint** — fix: add validate_argspec to play schema ([#5187](https://github.com/ansible/ansible-lint/pull/5187))
+- **ansible-community/awesome-ansible** — Add Ansible Tutorial by Compute Central to Tutorials section ([#112](https://github.com/ansible-community/awesome-ansible/pull/112))
 
 <!--
 ## Demo
