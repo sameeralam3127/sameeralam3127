@@ -26,12 +26,12 @@ I build tools that detect, diagnose, and safely fix production failures across K
 Checked every 6 hours by a [GitHub Actions workflow](.github/workflows/status.yml).
 
 <!-- STATUS:START -->
-<!-- status-state: {"checked": "2026-10-26 22:38", "up": {"IPMG": true, "KubeRescue": true, "Linux Vitals": true}} -->
+<!-- status-state: {"checked": "2026-10-28 05:39", "up": {"IPMG": true, "KubeRescue": true, "Linux Vitals": true}} -->
 | Tool | Status | Response ms | Last checked (UTC) |
 | --- | --- | --- | --- |
-| [IPMG](https://sameeralam3127.github.io/ipmg/) | 🟢 Up | 209 | 2026-10-26 22:38 |
-| [KubeRescue](https://sameeralam3127.github.io/KubeRescue/) | 🟢 Up | 183 | 2026-10-26 22:38 |
-| [Linux Vitals](https://sameeralam3127.github.io/linux-vitals/) | 🟢 Up | 229 | 2026-10-26 22:38 |
+| [IPMG](https://sameeralam3127.github.io/ipmg/) | 🟢 Up | 95 | 2026-10-28 05:39 |
+| [KubeRescue](https://sameeralam3127.github.io/KubeRescue/) | 🟢 Up | 73 | 2026-10-28 05:39 |
+| [Linux Vitals](https://sameeralam3127.github.io/linux-vitals/) | 🟢 Up | 84 | 2026-10-28 05:39 |
 <!-- STATUS:END -->
 
 ## Upstream contributions
