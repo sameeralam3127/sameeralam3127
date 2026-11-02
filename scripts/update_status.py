@@ -18,7 +18,6 @@ from datetime import datetime, timedelta, timezone
 
 TOOLS = [
     ("IPMG", "https://sameeralam3127.github.io/ipmg/"),
-    ("KubeRescue", "https://sameeralam3127.github.io/KubeRescue/"),
     ("Linux Vitals", "https://sameeralam3127.github.io/linux-vitals/"),
 ]
 
