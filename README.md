@@ -24,11 +24,11 @@ I build tools that detect, diagnose, and safely fix production failures across K
 Checked every 6 hours by a [GitHub Actions workflow](.github/workflows/status.yml).
 
 <!-- STATUS:START -->
-<!-- status-state: {"checked": "2026-11-04 14:38", "up": {"IPMG": true, "Linux Vitals": true}} -->
+<!-- status-state: {"checked": "2026-11-05 19:55", "up": {"IPMG": true, "Linux Vitals": true}} -->
 | Tool | Status | Response ms | Last checked (UTC) |
 | --- | --- | --- | --- |
-| [IPMG](https://sameeralam3127.github.io/ipmg/) | 🟢 Up | 209 | 2026-11-04 14:38 |
-| [Linux Vitals](https://sameeralam3127.github.io/linux-vitals/) | 🟢 Up | 122 | 2026-11-04 14:38 |
+| [IPMG](https://sameeralam3127.github.io/ipmg/) | 🟢 Up | 333 | 2026-11-05 19:55 |
+| [Linux Vitals](https://sameeralam3127.github.io/linux-vitals/) | 🟢 Up | 150 | 2026-11-05 19:55 |
 <!-- STATUS:END -->
 
 ## Upstream contributions
