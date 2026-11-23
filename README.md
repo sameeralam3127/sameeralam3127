@@ -8,17 +8,8 @@
 
 I build tools that detect, diagnose, and safely fix production failures across Kubernetes clusters and Linux fleets.
 
-[Portfolio](https://sameeralam3127.github.io/) · [Compute Central](https://computecentral.in/) ·  [Linux Vitals](https://sameeralam3127.github.io/linux-vitals/) · [IPMG](https://sameeralam3127.github.io/ipmg/) · [LinkedIn](https://www.linkedin.com/in/sameer-alam-62730944b/)
-
-## Experience
-
-| Role | Company | Duration |
-| --- | --- | --- |
-| **Python Developer** | [FutureSoft](http://futuresoft.net/) | 4 years |
-
-## Education
-
-**B.Tech** · Jain University
+[Portfolio](https://sameeralam3127.github.io/) · [Compute Central](https://computecentral.in/) ·  [Linux Vitals](https://sameeralam3127.github.io/linux-vitals/) · [IPMG](https://sameeralam3127.github.io/ipmg/)
+<!-- TODO: LinkedIn URL — add " · [LinkedIn](https://www.linkedin.com/in/<handle>/)" to the line above -->
 
 ## What I build
 
